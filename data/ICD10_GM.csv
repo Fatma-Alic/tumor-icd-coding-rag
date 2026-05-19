@@ -1,0 +1,1402 @@
+ICD10;Label;Rubrik
+C00;Bösartige Neubildung der Lippe;
+C00.0;Bösartige Neubildung: Äußere Oberlippe;preferredLong
+C00.0;Bösartige Neubildung: Äußere Oberlippe;preferredLong
+C00.1;Bösartige Neubildung: Äußere Unterlippe;preferredLong
+C00.1;Bösartige Neubildung: Äußere Unterlippe;preferredLong
+C00.2;Bösartige Neubildung: Äußere Lippe, nicht näher bezeichnet;preferredLong
+C00.2;Bösartige Neubildung: Äußere Lippe, nicht näher bezeichnet;preferredLong
+C00.3;Bösartige Neubildung: Oberlippe, Innenseite;preferredLong
+C00.3;Bösartige Neubildung: Oberlippe, Innenseite;preferredLong
+C00.4;Bösartige Neubildung: Unterlippe, Innenseite;preferredLong
+C00.4;Bösartige Neubildung: Unterlippe, Innenseite;preferredLong
+C00.5;Bösartige Neubildung: Lippe, nicht näher bezeichnet, Innenseite;preferredLong
+C00.5;Bösartige Neubildung: Lippe, nicht näher bezeichnet, Innenseite;preferredLong
+C00.6;Bösartige Neubildung: Lippenkommissur;preferredLong
+C00.6;Bösartige Neubildung: Lippenkommissur;preferredLong
+C00.8;Bösartige Neubildung: Lippe, mehrere Teilbereiche überlappend;preferredLong
+C00.8;Bösartige Neubildung: Lippe, mehrere Teilbereiche überlappend;preferredLong
+C00.9;Bösartige Neubildung: Lippe, nicht näher bezeichnet;preferredLong
+C00.9;Bösartige Neubildung: Lippe, nicht näher bezeichnet;preferredLong
+C01;Bösartige Neubildung des Zungengrundes;
+C02;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Zunge;
+C02.0;Bösartige Neubildung: Zungenrücken;preferredLong
+C02.0;Bösartige Neubildung: Zungenrücken;preferredLong
+C02.1;Bösartige Neubildung: Zungenrand;preferredLong
+C02.1;Bösartige Neubildung: Zungenrand;preferredLong
+C02.2;Bösartige Neubildung: Zungenunterfläche;preferredLong
+C02.2;Bösartige Neubildung: Zungenunterfläche;preferredLong
+C02.3;Bösartige Neubildung: Vordere zwei Drittel der Zunge, Bereich nicht näher bezeichnet;preferredLong
+C02.3;Bösartige Neubildung: Vordere zwei Drittel der Zunge, Bereich nicht näher bezeichnet;preferredLong
+C02.4;Bösartige Neubildung: Zungentonsille;preferredLong
+C02.4;Bösartige Neubildung: Zungentonsille;preferredLong
+C02.8;Bösartige Neubildung: Zunge, mehrere Teilbereiche überlappend;preferredLong
+C02.8;Bösartige Neubildung: Zunge, mehrere Teilbereiche überlappend;preferredLong
+C02.9;Bösartige Neubildung: Zunge, nicht näher bezeichnet;preferredLong
+C02.9;Bösartige Neubildung: Zunge, nicht näher bezeichnet;preferredLong
+C03;Bösartige Neubildung des Zahnfleisches;
+C03.0;Bösartige Neubildung: Oberkieferzahnfleisch;preferredLong
+C03.0;Bösartige Neubildung: Oberkieferzahnfleisch;preferredLong
+C03.1;Bösartige Neubildung: Unterkieferzahnfleisch;preferredLong
+C03.1;Bösartige Neubildung: Unterkieferzahnfleisch;preferredLong
+C03.9;Bösartige Neubildung: Zahnfleisch, nicht näher bezeichnet;preferredLong
+C03.9;Bösartige Neubildung: Zahnfleisch, nicht näher bezeichnet;preferredLong
+C04;Bösartige Neubildung des Mundbodens;
+C04.0;Bösartige Neubildung: Vorderer Teil des Mundbodens;preferredLong
+C04.0;Bösartige Neubildung: Vorderer Teil des Mundbodens;preferredLong
+C04.1;Bösartige Neubildung: Seitlicher Teil des Mundbodens;preferredLong
+C04.1;Bösartige Neubildung: Seitlicher Teil des Mundbodens;preferredLong
+C04.8;Bösartige Neubildung: Mundboden, mehrere Teilbereiche überlappend;preferredLong
+C04.8;Bösartige Neubildung: Mundboden, mehrere Teilbereiche überlappend;preferredLong
+C04.9;Bösartige Neubildung: Mundboden, nicht näher bezeichnet;preferredLong
+C04.9;Bösartige Neubildung: Mundboden, nicht näher bezeichnet;preferredLong
+C05;Bösartige Neubildung des Gaumens;
+C05.0;Bösartige Neubildung: Harter Gaumen;preferredLong
+C05.0;Bösartige Neubildung: Harter Gaumen;preferredLong
+C05.1;Bösartige Neubildung: Weicher Gaumen;preferredLong
+C05.1;Bösartige Neubildung: Weicher Gaumen;preferredLong
+C05.2;Bösartige Neubildung: Uvula;preferredLong
+C05.2;Bösartige Neubildung: Uvula;preferredLong
+C05.8;Bösartige Neubildung: Gaumen, mehrere Teilbereiche überlappend;preferredLong
+C05.8;Bösartige Neubildung: Gaumen, mehrere Teilbereiche überlappend;preferredLong
+C05.9;Bösartige Neubildung: Gaumen, nicht näher bezeichnet;preferredLong
+C05.9;Bösartige Neubildung: Gaumen, nicht näher bezeichnet;preferredLong
+C06;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile des Mundes;
+C06.0;Bösartige Neubildung: Wangenschleimhaut;preferredLong
+C06.0;Bösartige Neubildung: Wangenschleimhaut;preferredLong
+C06.1;Bösartige Neubildung: Vestibulum oris;preferredLong
+C06.1;Bösartige Neubildung: Vestibulum oris;preferredLong
+C06.2;Bösartige Neubildung: Retromolarregion;preferredLong
+C06.2;Bösartige Neubildung: Retromolarregion;preferredLong
+C06.8;Bösartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Mundes, mehrere Teilbereiche überlappend;preferredLong
+C06.8;Bösartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Mundes, mehrere Teilbereiche überlappend;preferredLong
+C06.9;Bösartige Neubildung: Mund, nicht näher bezeichnet;preferredLong
+C06.9;Bösartige Neubildung: Mund, nicht näher bezeichnet;preferredLong
+C07;Bösartige Neubildung der Parotis;
+C08;Bösartige Neubildung sonstiger und nicht näher bezeichneter großer Speicheldrüsen;
+C08.0;Bösartige Neubildung: Glandula submandibularis;preferredLong
+C08.0;Bösartige Neubildung: Glandula submandibularis;preferredLong
+C08.1;Bösartige Neubildung: Glandula sublingualis;preferredLong
+C08.1;Bösartige Neubildung: Glandula sublingualis;preferredLong
+C08.8;Bösartige Neubildung: Große Speicheldrüsen, mehrere Teilbereiche überlappend;preferredLong
+C08.8;Bösartige Neubildung: Große Speicheldrüsen, mehrere Teilbereiche überlappend;preferredLong
+C08.9;Bösartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet;preferredLong
+C08.9;Bösartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet;preferredLong
+C09;Bösartige Neubildung der Tonsille;
+C09.0;Bösartige Neubildung: Fossa tonsillaris;preferredLong
+C09.0;Bösartige Neubildung: Fossa tonsillaris;preferredLong
+C09.1;Bösartige Neubildung: Gaumenbogen (vorderer) (hinterer);preferredLong
+C09.1;Bösartige Neubildung: Gaumenbogen (vorderer) (hinterer);preferredLong
+C09.8;Bösartige Neubildung: Tonsille, mehrere Teilbereiche überlappend;preferredLong
+C09.8;Bösartige Neubildung: Tonsille, mehrere Teilbereiche überlappend;preferredLong
+C09.9;Bösartige Neubildung: Tonsille, nicht näher bezeichnet;preferredLong
+C09.9;Bösartige Neubildung: Tonsille, nicht näher bezeichnet;preferredLong
+C10;Bösartige Neubildung des Oropharynx;
+C10.0;Bösartige Neubildung: Vallecula epiglottica;preferredLong
+C10.0;Bösartige Neubildung: Vallecula epiglottica;preferredLong
+C10.1;Bösartige Neubildung: Vorderfläche der Epiglottis;preferredLong
+C10.1;Bösartige Neubildung: Vorderfläche der Epiglottis;preferredLong
+C10.2;Bösartige Neubildung: Seitenwand des Oropharynx;preferredLong
+C10.2;Bösartige Neubildung: Seitenwand des Oropharynx;preferredLong
+C10.3;Bösartige Neubildung: Hinterwand des Oropharynx;preferredLong
+C10.3;Bösartige Neubildung: Hinterwand des Oropharynx;preferredLong
+C10.4;Bösartige Neubildung: Kiemengang;preferredLong
+C10.4;Bösartige Neubildung: Kiemengang;preferredLong
+C10.8;Bösartige Neubildung: Oropharynx, mehrere Teilbereiche überlappend;preferredLong
+C10.8;Bösartige Neubildung: Oropharynx, mehrere Teilbereiche überlappend;preferredLong
+C10.9;Bösartige Neubildung: Oropharynx, nicht näher bezeichnet;preferredLong
+C10.9;Bösartige Neubildung: Oropharynx, nicht näher bezeichnet;preferredLong
+C11;Bösartige Neubildung des Nasopharynx;
+C11.0;Bösartige Neubildung: Obere Wand des Nasopharynx;preferredLong
+C11.0;Bösartige Neubildung: Obere Wand des Nasopharynx;preferredLong
+C11.1;Bösartige Neubildung: Hinterwand des Nasopharynx;preferredLong
+C11.1;Bösartige Neubildung: Hinterwand des Nasopharynx;preferredLong
+C11.2;Bösartige Neubildung: Seitenwand des Nasopharynx;preferredLong
+C11.2;Bösartige Neubildung: Seitenwand des Nasopharynx;preferredLong
+C11.3;Bösartige Neubildung: Vorderwand des Nasopharynx;preferredLong
+C11.3;Bösartige Neubildung: Vorderwand des Nasopharynx;preferredLong
+C11.8;Bösartige Neubildung: Nasopharynx, mehrere Teilbereiche überlappend;preferredLong
+C11.8;Bösartige Neubildung: Nasopharynx, mehrere Teilbereiche überlappend;preferredLong
+C11.9;Bösartige Neubildung: Nasopharynx, nicht näher bezeichnet;preferredLong
+C11.9;Bösartige Neubildung: Nasopharynx, nicht näher bezeichnet;preferredLong
+C12;Bösartige Neubildung des Recessus piriformis;
+C13;Bösartige Neubildung des Hypopharynx;
+C13.0;Bösartige Neubildung: Regio postcricoidea;preferredLong
+C13.0;Bösartige Neubildung: Regio postcricoidea;preferredLong
+C13.1;Bösartige Neubildung: Aryepiglottische Falte, hypopharyngeale Seite;preferredLong
+C13.1;Bösartige Neubildung: Aryepiglottische Falte, hypopharyngeale Seite;preferredLong
+C13.2;Bösartige Neubildung: Hinterwand des Hypopharynx;preferredLong
+C13.2;Bösartige Neubildung: Hinterwand des Hypopharynx;preferredLong
+C13.8;Bösartige Neubildung: Hypopharynx, mehrere Teilbereiche überlappend;preferredLong
+C13.8;Bösartige Neubildung: Hypopharynx, mehrere Teilbereiche überlappend;preferredLong
+C13.9;Bösartige Neubildung: Hypopharynx, nicht näher bezeichnet;preferredLong
+C13.9;Bösartige Neubildung: Hypopharynx, nicht näher bezeichnet;preferredLong
+C14;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen der Lippe, der Mundhöhle und des Pharynx;
+C14.0;Bösartige Neubildung: Pharynx, nicht näher bezeichnet;preferredLong
+C14.0;Bösartige Neubildung: Pharynx, nicht näher bezeichnet;preferredLong
+C14.2;Bösartige Neubildung: Lymphatischer Rachenring [Waldeyer];preferredLong
+C14.2;Bösartige Neubildung: Lymphatischer Rachenring [Waldeyer];preferredLong
+C14.8;Bösartige Neubildung: Lippe, Mundhöhle und Pharynx, mehrere Teilbereiche überlappend;preferredLong
+C14.8;Bösartige Neubildung: Lippe, Mundhöhle und Pharynx, mehrere Teilbereiche überlappend;preferredLong
+C15;Bösartige Neubildung des Ösophagus;
+C15.0;Bösartige Neubildung: Zervikaler Ösophagus;preferredLong
+C15.0;Bösartige Neubildung: Zervikaler Ösophagus;preferredLong
+C15.1;Bösartige Neubildung: Thorakaler Ösophagus;preferredLong
+C15.1;Bösartige Neubildung: Thorakaler Ösophagus;preferredLong
+C15.2;Bösartige Neubildung: Abdominaler Ösophagus;preferredLong
+C15.2;Bösartige Neubildung: Abdominaler Ösophagus;preferredLong
+C15.3;Bösartige Neubildung: Ösophagus, oberes Drittel;preferredLong
+C15.3;Bösartige Neubildung: Ösophagus, oberes Drittel;preferredLong
+C15.4;Bösartige Neubildung: Ösophagus, mittleres Drittel;preferredLong
+C15.4;Bösartige Neubildung: Ösophagus, mittleres Drittel;preferredLong
+C15.5;Bösartige Neubildung: Ösophagus, unteres Drittel;preferredLong
+C15.5;Bösartige Neubildung: Ösophagus, unteres Drittel;preferredLong
+C15.8;Bösartige Neubildung: Ösophagus, mehrere Teilbereiche überlappend;preferredLong
+C15.8;Bösartige Neubildung: Ösophagus, mehrere Teilbereiche überlappend;preferredLong
+C15.9;Bösartige Neubildung: Ösophagus, nicht näher bezeichnet;preferredLong
+C15.9;Bösartige Neubildung: Ösophagus, nicht näher bezeichnet;preferredLong
+C16;Bösartige Neubildung des Magens;
+C16.0;Bösartige Neubildung: Kardia;preferredLong
+C16.0;Bösartige Neubildung: Kardia;preferredLong
+C16.1;Bösartige Neubildung: Fundus ventriculi;preferredLong
+C16.1;Bösartige Neubildung: Fundus ventriculi;preferredLong
+C16.2;Bösartige Neubildung: Corpus ventriculi;preferredLong
+C16.2;Bösartige Neubildung: Corpus ventriculi;preferredLong
+C16.3;Bösartige Neubildung: Antrum pyloricum;preferredLong
+C16.3;Bösartige Neubildung: Antrum pyloricum;preferredLong
+C16.4;Bösartige Neubildung: Pylorus;preferredLong
+C16.4;Bösartige Neubildung: Pylorus;preferredLong
+C16.5;Bösartige Neubildung: Kleine Kurvatur des Magens, nicht näher bezeichnet;preferredLong
+C16.5;Bösartige Neubildung: Kleine Kurvatur des Magens, nicht näher bezeichnet;preferredLong
+C16.6;Bösartige Neubildung: Große Kurvatur des Magens, nicht näher bezeichnet;preferredLong
+C16.6;Bösartige Neubildung: Große Kurvatur des Magens, nicht näher bezeichnet;preferredLong
+C16.8;Bösartige Neubildung: Magen, mehrere Teilbereiche überlappend;preferredLong
+C16.8;Bösartige Neubildung: Magen, mehrere Teilbereiche überlappend;preferredLong
+C16.9;Bösartige Neubildung: Magen, nicht näher bezeichnet;preferredLong
+C16.9;Bösartige Neubildung: Magen, nicht näher bezeichnet;preferredLong
+C17;Bösartige Neubildung des Dünndarmes;
+C17.0;Bösartige Neubildung: Duodenum;preferredLong
+C17.0;Bösartige Neubildung: Duodenum;preferredLong
+C17.1;Bösartige Neubildung: Jejunum;preferredLong
+C17.1;Bösartige Neubildung: Jejunum;preferredLong
+C17.2;Bösartige Neubildung: Ileum;preferredLong
+C17.2;Bösartige Neubildung: Ileum;preferredLong
+C17.3;Bösartige Neubildung: Meckel-Divertikel;preferredLong
+C17.3;Bösartige Neubildung: Meckel-Divertikel;preferredLong
+C17.8;Bösartige Neubildung: Dünndarm, mehrere Teilbereiche überlappend;preferredLong
+C17.8;Bösartige Neubildung: Dünndarm, mehrere Teilbereiche überlappend;preferredLong
+C17.9;Bösartige Neubildung: Dünndarm, nicht näher bezeichnet;preferredLong
+C17.9;Bösartige Neubildung: Dünndarm, nicht näher bezeichnet;preferredLong
+C18;Bösartige Neubildung des Kolons;
+C18.0;Bösartige Neubildung: Zäkum;preferredLong
+C18.0;Bösartige Neubildung: Zäkum;preferredLong
+C18.1;Bösartige Neubildung: Appendix vermiformis;preferredLong
+C18.1;Bösartige Neubildung: Appendix vermiformis;preferredLong
+C18.2;Bösartige Neubildung: Colon ascendens;preferredLong
+C18.2;Bösartige Neubildung: Colon ascendens;preferredLong
+C18.3;Bösartige Neubildung: Flexura coli dextra [hepatica];preferredLong
+C18.3;Bösartige Neubildung: Flexura coli dextra [hepatica];preferredLong
+C18.4;Bösartige Neubildung: Colon transversum;preferredLong
+C18.4;Bösartige Neubildung: Colon transversum;preferredLong
+C18.5;Bösartige Neubildung: Flexura coli sinistra [lienalis];preferredLong
+C18.5;Bösartige Neubildung: Flexura coli sinistra [lienalis];preferredLong
+C18.6;Bösartige Neubildung: Colon descendens;preferredLong
+C18.6;Bösartige Neubildung: Colon descendens;preferredLong
+C18.7;Bösartige Neubildung: Colon sigmoideum;preferredLong
+C18.7;Bösartige Neubildung: Colon sigmoideum;preferredLong
+C18.8;Bösartige Neubildung: Kolon, mehrere Teilbereiche überlappend;preferredLong
+C18.8;Bösartige Neubildung: Kolon, mehrere Teilbereiche überlappend;preferredLong
+C18.9;Bösartige Neubildung: Kolon, nicht näher bezeichnet;preferredLong
+C18.9;Bösartige Neubildung: Kolon, nicht näher bezeichnet;preferredLong
+C19;Bösartige Neubildung am Rektosigmoid, Übergang;
+C20;Bösartige Neubildung des Rektums;
+C21;Bösartige Neubildung des Anus und des Analkanals;
+C21.0;Bösartige Neubildung: Anus, nicht näher bezeichnet;preferredLong
+C21.0;Bösartige Neubildung: Anus, nicht näher bezeichnet;preferredLong
+C21.1;Bösartige Neubildung: Analkanal;preferredLong
+C21.1;Bösartige Neubildung: Analkanal;preferredLong
+C21.2;Bösartige Neubildung: Kloakenregion;preferredLong
+C21.2;Bösartige Neubildung: Kloakenregion;preferredLong
+C21.8;Bösartige Neubildung: Rektum, Anus und Analkanal, mehrere Teilbereiche überlappend;preferredLong
+C21.8;Bösartige Neubildung: Rektum, Anus und Analkanal, mehrere Teilbereiche überlappend;preferredLong
+C22;Bösartige Neubildung der Leber und der intrahepatischen Gallengänge;
+C22.0;Leberzellkarzinom;
+C22.1;Intrahepatisches Gallengangskarzinom;
+C22.2;Hepatoblastom;
+C22.3;Angiosarkom der Leber;
+C22.4;Sonstige Sarkome der Leber;
+C22.7;Sonstige näher bezeichnete Karzinome der Leber;
+C22.9;Bösartige Neubildung: Leber, nicht näher bezeichnet;preferredLong
+C22.9;Bösartige Neubildung: Leber, nicht näher bezeichnet;preferredLong
+C23;Bösartige Neubildung der Gallenblase;
+C24;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Gallenwege;
+C24.0;Bösartige Neubildung: Extrahepatischer Gallengang;preferredLong
+C24.0;Bösartige Neubildung: Extrahepatischer Gallengang;preferredLong
+C24.1;Bösartige Neubildung: Ampulla hepatopancreatica [Ampulla Vateri];preferredLong
+C24.1;Bösartige Neubildung: Ampulla hepatopancreatica [Ampulla Vateri];preferredLong
+C24.8;Bösartige Neubildung: Gallenwege, mehrere Teilbereiche überlappend;preferredLong
+C24.8;Bösartige Neubildung: Gallenwege, mehrere Teilbereiche überlappend;preferredLong
+C24.9;Bösartige Neubildung: Gallenwege, nicht näher bezeichnet;preferredLong
+C24.9;Bösartige Neubildung: Gallenwege, nicht näher bezeichnet;preferredLong
+C25;Bösartige Neubildung des Pankreas;
+C25.0;Bösartige Neubildung: Pankreaskopf;preferredLong
+C25.0;Bösartige Neubildung: Pankreaskopf;preferredLong
+C25.1;Bösartige Neubildung: Pankreaskörper;preferredLong
+C25.1;Bösartige Neubildung: Pankreaskörper;preferredLong
+C25.2;Bösartige Neubildung: Pankreasschwanz;preferredLong
+C25.2;Bösartige Neubildung: Pankreasschwanz;preferredLong
+C25.3;Bösartige Neubildung: Ductus pancreaticus;preferredLong
+C25.3;Bösartige Neubildung: Ductus pancreaticus;preferredLong
+C25.4;Bösartige Neubildung: Endokriner Drüsenanteil des Pankreas;preferredLong
+C25.4;Bösartige Neubildung: Endokriner Drüsenanteil des Pankreas;preferredLong
+C25.7;Bösartige Neubildung: Sonstige Teile des Pankreas;preferredLong
+C25.7;Bösartige Neubildung: Sonstige Teile des Pankreas;preferredLong
+C25.8;Bösartige Neubildung: Pankreas, mehrere Teilbereiche überlappend;preferredLong
+C25.8;Bösartige Neubildung: Pankreas, mehrere Teilbereiche überlappend;preferredLong
+C25.9;Bösartige Neubildung: Pankreas, nicht näher bezeichnet;preferredLong
+C25.9;Bösartige Neubildung: Pankreas, nicht näher bezeichnet;preferredLong
+C26;Bösartige Neubildung sonstiger und ungenau bezeichneter Verdauungsorgane;
+C26.0;Bösartige Neubildung: Intestinaltrakt, Teil nicht näher bezeichnet;preferredLong
+C26.0;Bösartige Neubildung: Intestinaltrakt, Teil nicht näher bezeichnet;preferredLong
+C26.1;Bösartige Neubildung: Milz;preferredLong
+C26.1;Bösartige Neubildung: Milz;preferredLong
+C26.8;Bösartige Neubildung: Verdauungssystem, mehrere Teilbereiche überlappend;preferredLong
+C26.8;Bösartige Neubildung: Verdauungssystem, mehrere Teilbereiche überlappend;preferredLong
+C26.9;Bösartige Neubildung: Ungenau bezeichnete Lokalisationen des Verdauungssystems;preferredLong
+C26.9;Bösartige Neubildung: Ungenau bezeichnete Lokalisationen des Verdauungssystems;preferredLong
+C30;Bösartige Neubildung der Nasenhöhle und des Mittelohres;
+C30.0;Bösartige Neubildung: Nasenhöhle;preferredLong
+C30.0;Bösartige Neubildung: Nasenhöhle;preferredLong
+C30.1;Bösartige Neubildung: Mittelohr;preferredLong
+C30.1;Bösartige Neubildung: Mittelohr;preferredLong
+C31;Bösartige Neubildung der Nasennebenhöhlen;
+C31.0;Bösartige Neubildung: Sinus maxillaris [Kieferhöhle];preferredLong
+C31.0;Bösartige Neubildung: Sinus maxillaris [Kieferhöhle];preferredLong
+C31.1;Bösartige Neubildung: Sinus ethmoidalis [Siebbeinzellen];preferredLong
+C31.1;Bösartige Neubildung: Sinus ethmoidalis [Siebbeinzellen];preferredLong
+C31.2;Bösartige Neubildung: Sinus frontalis [Stirnhöhle];preferredLong
+C31.2;Bösartige Neubildung: Sinus frontalis [Stirnhöhle];preferredLong
+C31.3;Bösartige Neubildung: Sinus sphenoidalis [Keilbeinhöhle];preferredLong
+C31.3;Bösartige Neubildung: Sinus sphenoidalis [Keilbeinhöhle];preferredLong
+C31.8;Bösartige Neubildung: Nasennebenhöhlen, mehrere Teilbereiche überlappend;preferredLong
+C31.8;Bösartige Neubildung: Nasennebenhöhlen, mehrere Teilbereiche überlappend;preferredLong
+C31.9;Bösartige Neubildung: Nasennebenhöhle, nicht näher bezeichnet;preferredLong
+C31.9;Bösartige Neubildung: Nasennebenhöhle, nicht näher bezeichnet;preferredLong
+C32;Bösartige Neubildung des Larynx;
+C32.0;Bösartige Neubildung: Glottis;preferredLong
+C32.0;Bösartige Neubildung: Glottis;preferredLong
+C32.1;Bösartige Neubildung: Supraglottis;preferredLong
+C32.1;Bösartige Neubildung: Supraglottis;preferredLong
+C32.2;Bösartige Neubildung: Subglottis;preferredLong
+C32.2;Bösartige Neubildung: Subglottis;preferredLong
+C32.3;Bösartige Neubildung: Larynxknorpel;preferredLong
+C32.3;Bösartige Neubildung: Larynxknorpel;preferredLong
+C32.8;Bösartige Neubildung: Larynx, mehrere Teilbereiche überlappend;preferredLong
+C32.8;Bösartige Neubildung: Larynx, mehrere Teilbereiche überlappend;preferredLong
+C32.9;Bösartige Neubildung: Larynx, nicht näher bezeichnet;preferredLong
+C32.9;Bösartige Neubildung: Larynx, nicht näher bezeichnet;preferredLong
+C33;Bösartige Neubildung der Trachea;
+C34;Bösartige Neubildung der Bronchien und der Lunge;
+C34.0;Bösartige Neubildung: Hauptbronchus;preferredLong
+C34.0;Bösartige Neubildung: Hauptbronchus;preferredLong
+C34.1;Bösartige Neubildung: Oberlappen (-Bronchus);preferredLong
+C34.1;Bösartige Neubildung: Oberlappen (-Bronchus);preferredLong
+C34.2;Bösartige Neubildung: Mittellappen (-Bronchus);preferredLong
+C34.2;Bösartige Neubildung: Mittellappen (-Bronchus);preferredLong
+C34.3;Bösartige Neubildung: Unterlappen (-Bronchus);preferredLong
+C34.3;Bösartige Neubildung: Unterlappen (-Bronchus);preferredLong
+C34.8;Bösartige Neubildung: Bronchus und Lunge, mehrere Teilbereiche überlappend;preferredLong
+C34.8;Bösartige Neubildung: Bronchus und Lunge, mehrere Teilbereiche überlappend;preferredLong
+C34.9;Bösartige Neubildung: Bronchus oder Lunge, nicht näher bezeichnet;preferredLong
+C34.9;Bösartige Neubildung: Bronchus oder Lunge, nicht näher bezeichnet;preferredLong
+C37;Bösartige Neubildung des Thymus;
+C38;Bösartige Neubildung des Herzens, des Mediastinums und der Pleura;
+C38.0;Bösartige Neubildung: Herz;preferredLong
+C38.0;Bösartige Neubildung: Herz;preferredLong
+C38.1;Bösartige Neubildung: Vorderes Mediastinum;preferredLong
+C38.1;Bösartige Neubildung: Vorderes Mediastinum;preferredLong
+C38.2;Bösartige Neubildung: Hinteres Mediastinum;preferredLong
+C38.2;Bösartige Neubildung: Hinteres Mediastinum;preferredLong
+C38.3;Bösartige Neubildung: Mediastinum, Teil nicht näher bezeichnet;preferredLong
+C38.3;Bösartige Neubildung: Mediastinum, Teil nicht näher bezeichnet;preferredLong
+C38.4;Bösartige Neubildung: Pleura;preferredLong
+C38.4;Bösartige Neubildung: Pleura;preferredLong
+C38.8;Bösartige Neubildung: Herz, Mediastinum und Pleura, mehrere Teilbereiche überlappend;preferredLong
+C38.8;Bösartige Neubildung: Herz, Mediastinum und Pleura, mehrere Teilbereiche überlappend;preferredLong
+C39;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen des Atmungssystems und sonstiger intrathorakaler Organe;
+C39.0;Bösartige Neubildung: Obere Atemwege, Teil nicht näher bezeichnet;preferredLong
+C39.0;Bösartige Neubildung: Obere Atemwege, Teil nicht näher bezeichnet;preferredLong
+C39.8;Bösartige Neubildung: Atmungsorgane und sonstige intrathorakale Organe, mehrere Teilbereiche überlappend;preferredLong
+C39.8;Bösartige Neubildung: Atmungsorgane und sonstige intrathorakale Organe, mehrere Teilbereiche überlappend;preferredLong
+C39.9;Bösartige Neubildung: Ungenau bezeichnete Lokalisationen des Atmungssystems;preferredLong
+C39.9;Bösartige Neubildung: Ungenau bezeichnete Lokalisationen des Atmungssystems;preferredLong
+C40;Bösartige Neubildung des Knochens und des Gelenkknorpels der Extremitäten;
+C40.0;Bösartige Neubildung des Knochens und des Gelenkknorpels: Skapula und lange Knochen der oberen Extremität;preferredLong
+C40.0;Bösartige Neubildung des Knochens und des Gelenkknorpels: Skapula und lange Knochen der oberen Extremität;preferredLong
+C40.1;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der oberen Extremität;preferredLong
+C40.1;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der oberen Extremität;preferredLong
+C40.2;Bösartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität;preferredLong
+C40.2;Bösartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität;preferredLong
+C40.3;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der unteren Extremität;preferredLong
+C40.3;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der unteren Extremität;preferredLong
+C40.8;Bösartige Neubildung: Knochen und Gelenkknorpel der Extremitäten, mehrere Teilbereiche überlappend;preferredLong
+C40.8;Bösartige Neubildung: Knochen und Gelenkknorpel der Extremitäten, mehrere Teilbereiche überlappend;preferredLong
+C40.9;Bösartige Neubildung: Knochen und Gelenkknorpel einer Extremität, nicht näher bezeichnet;preferredLong
+C40.9;Bösartige Neubildung: Knochen und Gelenkknorpel einer Extremität, nicht näher bezeichnet;preferredLong
+C41;Bösartige Neubildung des Knochens und des Gelenkknorpels sonstiger und nicht näher bezeichneter Lokalisationen;
+C41.0;Bösartige Neubildung des Knochens und des Gelenkknorpels: Knochen des Hirn- und Gesichtsschädels;preferredLong
+C41.0;Bösartige Neubildung des Knochens und des Gelenkknorpels: Knochen des Hirn- und Gesichtsschädels;preferredLong
+C41.01;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kraniofazial;preferredLong
+C41.01;Bösartige Neubildung des Knochens und des Gelenkknorpels: Kraniofazial;preferredLong
+C41.02;Bösartige Neubildung des Knochens und des Gelenkknorpels: Maxillofazial;preferredLong
+C41.02;Bösartige Neubildung des Knochens und des Gelenkknorpels: Maxillofazial;preferredLong
+C41.1;Bösartige Neubildung des Knochens und des Gelenkknorpels: Unterkieferknochen;preferredLong
+C41.1;Bösartige Neubildung des Knochens und des Gelenkknorpels: Unterkieferknochen;preferredLong
+C41.2;Bösartige Neubildung des Knochens und des Gelenkknorpels: Wirbelsäule;preferredLong
+C41.2;Bösartige Neubildung des Knochens und des Gelenkknorpels: Wirbelsäule;preferredLong
+C41.3;Bösartige Neubildung des Knochens und des Gelenkknorpels: Rippen, Sternum und Klavikula;preferredLong
+C41.3;Bösartige Neubildung des Knochens und des Gelenkknorpels: Rippen, Sternum und Klavikula;preferredLong
+C41.30;Bösartige Neubildung des Knochens und des Gelenkknorpels: Rippen;preferredLong
+C41.30;Bösartige Neubildung des Knochens und des Gelenkknorpels: Rippen;preferredLong
+C41.31;Bösartige Neubildung des Knochens und des Gelenkknorpels: Sternum;preferredLong
+C41.31;Bösartige Neubildung des Knochens und des Gelenkknorpels: Sternum;preferredLong
+C41.32;Bösartige Neubildung des Knochens und des Gelenkknorpels: Klavikula;preferredLong
+C41.32;Bösartige Neubildung des Knochens und des Gelenkknorpels: Klavikula;preferredLong
+C41.4;Bösartige Neubildung des Knochens und des Gelenkknorpels: Beckenknochen;preferredLong
+C41.4;Bösartige Neubildung des Knochens und des Gelenkknorpels: Beckenknochen;preferredLong
+C41.8;Bösartige Neubildung: Knochen und Gelenkknorpel, mehrere Teilbereiche überlappend;preferredLong
+C41.8;Bösartige Neubildung: Knochen und Gelenkknorpel, mehrere Teilbereiche überlappend;preferredLong
+C41.9;Bösartige Neubildung: Knochen und Gelenkknorpel, nicht näher bezeichnet;preferredLong
+C41.9;Bösartige Neubildung: Knochen und Gelenkknorpel, nicht näher bezeichnet;preferredLong
+C43;Bösartiges Melanom der Haut;
+C43.0;Bösartiges Melanom der Lippe;
+C43.1;Bösartiges Melanom des Augenlides, einschließlich Kanthus;
+C43.2;Bösartiges Melanom des Ohres und des äußeren Gehörganges;
+C43.3;Bösartiges Melanom sonstiger und nicht näher bezeichneter Teile des Gesichtes;
+C43.4;Bösartiges Melanom der behaarten Kopfhaut und des Halses;
+C43.5;Bösartiges Melanom des Rumpfes;
+C43.6;Bösartiges Melanom der oberen Extremität, einschließlich Schulter;
+C43.7;Bösartiges Melanom der unteren Extremität, einschließlich Hüfte;
+C43.8;Bösartiges Melanom der Haut, mehrere Teilbereiche überlappend;
+C43.9;Bösartiges Melanom der Haut, nicht näher bezeichnet;
+C44;Sonstige bösartige Neubildungen der Haut;
+C44.0;Sonstige bösartige Neubildungen: Lippenhaut;preferredLong
+C44.0;Sonstige bösartige Neubildungen: Lippenhaut;preferredLong
+C44.1;Sonstige bösartige Neubildungen: Haut des Augenlides, einschließlich Kanthus;preferredLong
+C44.1;Sonstige bösartige Neubildungen: Haut des Augenlides, einschließlich Kanthus;preferredLong
+C44.2;Sonstige bösartige Neubildungen: Haut des Ohres und des äußeren Gehörganges;preferredLong
+C44.2;Sonstige bösartige Neubildungen: Haut des Ohres und des äußeren Gehörganges;preferredLong
+C44.3;Sonstige bösartige Neubildungen: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+C44.3;Sonstige bösartige Neubildungen: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+C44.4;Sonstige bösartige Neubildungen: Behaarte Kopfhaut und Haut des Halses;preferredLong
+C44.4;Sonstige bösartige Neubildungen: Behaarte Kopfhaut und Haut des Halses;preferredLong
+C44.5;Sonstige bösartige Neubildungen: Haut des Rumpfes;preferredLong
+C44.5;Sonstige bösartige Neubildungen: Haut des Rumpfes;preferredLong
+C44.50;Sonstige bösartige Neubildungen der Haut: Perianalhaut;preferredLong
+C44.50;Sonstige bösartige Neubildungen der Haut: Perianalhaut;preferredLong
+C44.59;Sonstige bösartige Neubildungen der Haut: Haut sonstiger und nicht näher bezeichneter Teile des Rumpfes;preferredLong
+C44.59;Sonstige bösartige Neubildungen der Haut: Haut sonstiger und nicht näher bezeichneter Teile des Rumpfes;preferredLong
+C44.6;Sonstige bösartige Neubildungen: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+C44.6;Sonstige bösartige Neubildungen: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+C44.7;Sonstige bösartige Neubildungen: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+C44.7;Sonstige bösartige Neubildungen: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+C44.8;Sonstige bösartige Neubildungen: Haut, mehrere Teilbereiche überlappend;preferredLong
+C44.8;Sonstige bösartige Neubildungen: Haut, mehrere Teilbereiche überlappend;preferredLong
+C44.9;Bösartige Neubildung der Haut, nicht näher bezeichnet;
+C45;Mesotheliom;
+C45.0;Mesotheliom der Pleura;
+C45.1;Mesotheliom des Peritoneums;
+C45.2;Mesotheliom des Perikards;
+C45.7;Mesotheliom sonstiger Lokalisationen;
+C45.9;Mesotheliom, nicht näher bezeichnet;
+C46;Kaposi-Sarkom [Sarcoma idiopathicum multiplex haemorrhagicum];
+C46.0;Kaposi-Sarkom der Haut;
+C46.1;Kaposi-Sarkom des Weichteilgewebes;
+C46.2;Kaposi-Sarkom des Gaumens;
+C46.3;Kaposi-Sarkom der Lymphknoten;
+C46.7;Kaposi-Sarkom sonstiger Lokalisationen;
+C46.8;Kaposi-Sarkom mehrerer Organe;
+C46.9;Kaposi-Sarkom, nicht näher bezeichnet;
+C47;Bösartige Neubildung der peripheren Nerven und des autonomen Nervensystems;
+C47.0;Bösartige Neubildung: Periphere Nerven des Kopfes, des Gesichtes und des Halses;preferredLong
+C47.0;Bösartige Neubildung: Periphere Nerven des Kopfes, des Gesichtes und des Halses;preferredLong
+C47.1;Bösartige Neubildung: Periphere Nerven der oberen Extremität, einschließlich Schulter;preferredLong
+C47.1;Bösartige Neubildung: Periphere Nerven der oberen Extremität, einschließlich Schulter;preferredLong
+C47.2;Bösartige Neubildung: Periphere Nerven der unteren Extremität, einschließlich Hüfte;preferredLong
+C47.2;Bösartige Neubildung: Periphere Nerven der unteren Extremität, einschließlich Hüfte;preferredLong
+C47.3;Bösartige Neubildung: Periphere Nerven des Thorax;preferredLong
+C47.3;Bösartige Neubildung: Periphere Nerven des Thorax;preferredLong
+C47.4;Bösartige Neubildung: Periphere Nerven des Abdomens;preferredLong
+C47.4;Bösartige Neubildung: Periphere Nerven des Abdomens;preferredLong
+C47.5;Bösartige Neubildung: Periphere Nerven des Beckens;preferredLong
+C47.5;Bösartige Neubildung: Periphere Nerven des Beckens;preferredLong
+C47.6;Bösartige Neubildung: Periphere Nerven des Rumpfes, nicht näher bezeichnet;preferredLong
+C47.6;Bösartige Neubildung: Periphere Nerven des Rumpfes, nicht näher bezeichnet;preferredLong
+C47.8;Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche überlappend;preferredLong
+C47.8;Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche überlappend;preferredLong
+C47.9;Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, nicht näher bezeichnet;preferredLong
+C47.9;Bösartige Neubildung: Periphere Nerven und autonomes Nervensystem, nicht näher bezeichnet;preferredLong
+C48;Bösartige Neubildung des Retroperitoneums und des Peritoneums;
+C48.0;Bösartige Neubildung: Retroperitoneum;preferredLong
+C48.0;Bösartige Neubildung: Retroperitoneum;preferredLong
+C48.1;Bösartige Neubildung: Näher bezeichnete Teile des Peritoneums;preferredLong
+C48.1;Bösartige Neubildung: Näher bezeichnete Teile des Peritoneums;preferredLong
+C48.2;Bösartige Neubildung: Peritoneum, nicht näher bezeichnet;preferredLong
+C48.2;Bösartige Neubildung: Peritoneum, nicht näher bezeichnet;preferredLong
+C48.8;Bösartige Neubildung: Retroperitoneum und Peritoneum, mehrere Teilbereiche überlappend;preferredLong
+C48.8;Bösartige Neubildung: Retroperitoneum und Peritoneum, mehrere Teilbereiche überlappend;preferredLong
+C49;Bösartige Neubildung sonstigen Bindegewebes und anderer Weichteilgewebe;
+C49.0;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses;preferredLong
+C49.0;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses;preferredLong
+C49.1;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter;preferredLong
+C49.1;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter;preferredLong
+C49.2;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte;preferredLong
+C49.2;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte;preferredLong
+C49.3;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Thorax;preferredLong
+C49.3;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Thorax;preferredLong
+C49.4;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Abdomens;preferredLong
+C49.4;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Abdomens;preferredLong
+C49.5;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Beckens;preferredLong
+C49.5;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Beckens;preferredLong
+C49.6;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet;preferredLong
+C49.6;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet;preferredLong
+C49.8;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, mehrere Teilbereiche überlappend;preferredLong
+C49.8;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, mehrere Teilbereiche überlappend;preferredLong
+C49.9;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet;preferredLong
+C49.9;Bösartige Neubildung: Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet;preferredLong
+C50;Bösartige Neubildung der Brustdrüse [Mamma];
+C50.0;Bösartige Neubildung: Brustwarze und Warzenhof;preferredLong
+C50.0;Bösartige Neubildung: Brustwarze und Warzenhof;preferredLong
+C50.1;Bösartige Neubildung: Zentraler Drüsenkörper der Brustdrüse;preferredLong
+C50.1;Bösartige Neubildung: Zentraler Drüsenkörper der Brustdrüse;preferredLong
+C50.2;Bösartige Neubildung: Oberer innerer Quadrant der Brustdrüse;preferredLong
+C50.2;Bösartige Neubildung: Oberer innerer Quadrant der Brustdrüse;preferredLong
+C50.3;Bösartige Neubildung: Unterer innerer Quadrant der Brustdrüse;preferredLong
+C50.3;Bösartige Neubildung: Unterer innerer Quadrant der Brustdrüse;preferredLong
+C50.4;Bösartige Neubildung: Oberer äußerer Quadrant der Brustdrüse;preferredLong
+C50.4;Bösartige Neubildung: Oberer äußerer Quadrant der Brustdrüse;preferredLong
+C50.5;Bösartige Neubildung: Unterer äußerer Quadrant der Brustdrüse;preferredLong
+C50.5;Bösartige Neubildung: Unterer äußerer Quadrant der Brustdrüse;preferredLong
+C50.6;Bösartige Neubildung: Recessus axillaris der Brustdrüse;preferredLong
+C50.6;Bösartige Neubildung: Recessus axillaris der Brustdrüse;preferredLong
+C50.8;Bösartige Neubildung: Brustdrüse, mehrere Teilbereiche überlappend;preferredLong
+C50.8;Bösartige Neubildung: Brustdrüse, mehrere Teilbereiche überlappend;preferredLong
+C50.9;Bösartige Neubildung: Brustdrüse, nicht näher bezeichnet;preferredLong
+C50.9;Bösartige Neubildung: Brustdrüse, nicht näher bezeichnet;preferredLong
+C51;Bösartige Neubildung der Vulva;
+C51.0;Bösartige Neubildung der Vulva: Labium majus;preferredLong
+C51.0;Bösartige Neubildung der Vulva: Labium majus;preferredLong
+C51.1;Bösartige Neubildung der Vulva: Labium minus;preferredLong
+C51.1;Bösartige Neubildung der Vulva: Labium minus;preferredLong
+C51.2;Bösartige Neubildung der Vulva: Klitoris;preferredLong
+C51.2;Bösartige Neubildung der Vulva: Klitoris;preferredLong
+C51.8;Bösartige Neubildung: Vulva, mehrere Teilbereiche überlappend;preferredLong
+C51.8;Bösartige Neubildung: Vulva, mehrere Teilbereiche überlappend;preferredLong
+C51.9;Bösartige Neubildung: Vulva, nicht näher bezeichnet;preferredLong
+C51.9;Bösartige Neubildung: Vulva, nicht näher bezeichnet;preferredLong
+C52;Bösartige Neubildung der Vagina;
+C53;Bösartige Neubildung der Cervix uteri;
+C53.0;Bösartige Neubildung: Endozervix;preferredLong
+C53.0;Bösartige Neubildung: Endozervix;preferredLong
+C53.1;Bösartige Neubildung: Ektozervix;preferredLong
+C53.1;Bösartige Neubildung: Ektozervix;preferredLong
+C53.8;Bösartige Neubildung: Cervix uteri, mehrere Teilbereiche überlappend;preferredLong
+C53.8;Bösartige Neubildung: Cervix uteri, mehrere Teilbereiche überlappend;preferredLong
+C53.9;Bösartige Neubildung: Cervix uteri, nicht näher bezeichnet;preferredLong
+C53.9;Bösartige Neubildung: Cervix uteri, nicht näher bezeichnet;preferredLong
+C54;Bösartige Neubildung des Corpus uteri;
+C54.0;Bösartige Neubildung: Isthmus uteri;preferredLong
+C54.0;Bösartige Neubildung: Isthmus uteri;preferredLong
+C54.1;Bösartige Neubildung: Endometrium;preferredLong
+C54.1;Bösartige Neubildung: Endometrium;preferredLong
+C54.2;Bösartige Neubildung: Myometrium;preferredLong
+C54.2;Bösartige Neubildung: Myometrium;preferredLong
+C54.3;Bösartige Neubildung: Fundus uteri;preferredLong
+C54.3;Bösartige Neubildung: Fundus uteri;preferredLong
+C54.8;Bösartige Neubildung: Corpus uteri, mehrere Teilbereiche überlappend;preferredLong
+C54.8;Bösartige Neubildung: Corpus uteri, mehrere Teilbereiche überlappend;preferredLong
+C54.9;Bösartige Neubildung: Corpus uteri, nicht näher bezeichnet;preferredLong
+C54.9;Bösartige Neubildung: Corpus uteri, nicht näher bezeichnet;preferredLong
+C55;Bösartige Neubildung des Uterus, Teil nicht näher bezeichnet;
+C56;Bösartige Neubildung des Ovars;
+C57;Bösartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane;
+C57.0;Bösartige Neubildung: Tuba uterina [Falloppio];preferredLong
+C57.0;Bösartige Neubildung: Tuba uterina [Falloppio];preferredLong
+C57.1;Bösartige Neubildung: Lig. latum uteri;preferredLong
+C57.1;Bösartige Neubildung: Lig. latum uteri;preferredLong
+C57.2;Bösartige Neubildung: Lig. teres uteri;preferredLong
+C57.2;Bösartige Neubildung: Lig. teres uteri;preferredLong
+C57.3;Bösartige Neubildung: Parametrium;preferredLong
+C57.3;Bösartige Neubildung: Parametrium;preferredLong
+C57.4;Bösartige Neubildung: Uterine Adnexe, nicht näher bezeichnet;preferredLong
+C57.4;Bösartige Neubildung: Uterine Adnexe, nicht näher bezeichnet;preferredLong
+C57.7;Bösartige Neubildung: Sonstige näher bezeichnete weibliche Genitalorgane;preferredLong
+C57.7;Bösartige Neubildung: Sonstige näher bezeichnete weibliche Genitalorgane;preferredLong
+C57.8;Bösartige Neubildung: Weibliche Genitalorgane, mehrere Teilbereiche überlappend;preferredLong
+C57.8;Bösartige Neubildung: Weibliche Genitalorgane, mehrere Teilbereiche überlappend;preferredLong
+C57.9;Bösartige Neubildung: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+C57.9;Bösartige Neubildung: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+C58;Bösartige Neubildung der Plazenta;
+C60;Bösartige Neubildung des Penis;
+C60.0;Bösartige Neubildung: Praeputium penis;preferredLong
+C60.0;Bösartige Neubildung: Praeputium penis;preferredLong
+C60.1;Bösartige Neubildung: Glans penis;preferredLong
+C60.1;Bösartige Neubildung: Glans penis;preferredLong
+C60.2;Bösartige Neubildung: Penisschaft;preferredLong
+C60.2;Bösartige Neubildung: Penisschaft;preferredLong
+C60.8;Bösartige Neubildung: Penis, mehrere Teilbereiche überlappend;preferredLong
+C60.8;Bösartige Neubildung: Penis, mehrere Teilbereiche überlappend;preferredLong
+C60.9;Bösartige Neubildung: Penis, nicht näher bezeichnet;preferredLong
+C60.9;Bösartige Neubildung: Penis, nicht näher bezeichnet;preferredLong
+C61;Bösartige Neubildung der Prostata;
+C62;Bösartige Neubildung des Hodens;
+C62.0;Bösartige Neubildung: Dystoper Hoden;preferredLong
+C62.0;Bösartige Neubildung: Dystoper Hoden;preferredLong
+C62.1;Bösartige Neubildung: Deszendierter Hoden;preferredLong
+C62.1;Bösartige Neubildung: Deszendierter Hoden;preferredLong
+C62.9;Bösartige Neubildung: Hoden, nicht näher bezeichnet;preferredLong
+C62.9;Bösartige Neubildung: Hoden, nicht näher bezeichnet;preferredLong
+C63;Bösartige Neubildung sonstiger und nicht näher bezeichneter männlicher Genitalorgane;
+C63.0;Bösartige Neubildung: Nebenhoden [Epididymis];preferredLong
+C63.0;Bösartige Neubildung: Nebenhoden [Epididymis];preferredLong
+C63.1;Bösartige Neubildung: Samenstrang;preferredLong
+C63.1;Bösartige Neubildung: Samenstrang;preferredLong
+C63.2;Bösartige Neubildung: Skrotum;preferredLong
+C63.2;Bösartige Neubildung: Skrotum;preferredLong
+C63.7;Bösartige Neubildung: Sonstige näher bezeichnete männliche Genitalorgane;preferredLong
+C63.7;Bösartige Neubildung: Sonstige näher bezeichnete männliche Genitalorgane;preferredLong
+C63.8;Bösartige Neubildung: Männliche Genitalorgane, mehrere Teilbereiche überlappend;preferredLong
+C63.8;Bösartige Neubildung: Männliche Genitalorgane, mehrere Teilbereiche überlappend;preferredLong
+C63.9;Bösartige Neubildung: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+C63.9;Bösartige Neubildung: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+C64;Bösartige Neubildung der Niere, ausgenommen Nierenbecken;
+C65;Bösartige Neubildung des Nierenbeckens;
+C66;Bösartige Neubildung des Ureters;
+C67;Bösartige Neubildung der Harnblase;
+C67.0;Bösartige Neubildung: Trigonum vesicae;preferredLong
+C67.0;Bösartige Neubildung: Trigonum vesicae;preferredLong
+C67.1;Bösartige Neubildung: Apex vesicae;preferredLong
+C67.1;Bösartige Neubildung: Apex vesicae;preferredLong
+C67.2;Bösartige Neubildung: Laterale Harnblasenwand;preferredLong
+C67.2;Bösartige Neubildung: Laterale Harnblasenwand;preferredLong
+C67.3;Bösartige Neubildung: Vordere Harnblasenwand;preferredLong
+C67.3;Bösartige Neubildung: Vordere Harnblasenwand;preferredLong
+C67.4;Bösartige Neubildung: Hintere Harnblasenwand;preferredLong
+C67.4;Bösartige Neubildung: Hintere Harnblasenwand;preferredLong
+C67.5;Bösartige Neubildung: Harnblasenhals;preferredLong
+C67.5;Bösartige Neubildung: Harnblasenhals;preferredLong
+C67.6;Bösartige Neubildung: Ostium ureteris;preferredLong
+C67.6;Bösartige Neubildung: Ostium ureteris;preferredLong
+C67.7;Bösartige Neubildung: Urachus;preferredLong
+C67.7;Bösartige Neubildung: Urachus;preferredLong
+C67.8;Bösartige Neubildung: Harnblase, mehrere Teilbereiche überlappend;preferredLong
+C67.8;Bösartige Neubildung: Harnblase, mehrere Teilbereiche überlappend;preferredLong
+C67.9;Bösartige Neubildung: Harnblase, nicht näher bezeichnet;preferredLong
+C67.9;Bösartige Neubildung: Harnblase, nicht näher bezeichnet;preferredLong
+C68;Bösartige Neubildung sonstiger und nicht näher bezeichneter Harnorgane;
+C68.0;Bösartige Neubildung: Urethra;preferredLong
+C68.0;Bösartige Neubildung: Urethra;preferredLong
+C68.1;Bösartige Neubildung: Paraurethrale Drüse;preferredLong
+C68.1;Bösartige Neubildung: Paraurethrale Drüse;preferredLong
+C68.8;Bösartige Neubildung: Harnorgane, mehrere Teilbereiche überlappend;preferredLong
+C68.8;Bösartige Neubildung: Harnorgane, mehrere Teilbereiche überlappend;preferredLong
+C68.9;Bösartige Neubildung: Harnorgan, nicht näher bezeichnet;preferredLong
+C68.9;Bösartige Neubildung: Harnorgan, nicht näher bezeichnet;preferredLong
+C69;Bösartige Neubildung des Auges und der Augenanhangsgebilde;
+C69.0;Bösartige Neubildung: Konjunktiva;preferredLong
+C69.0;Bösartige Neubildung: Konjunktiva;preferredLong
+C69.1;Bösartige Neubildung: Kornea;preferredLong
+C69.1;Bösartige Neubildung: Kornea;preferredLong
+C69.2;Bösartige Neubildung: Retina;preferredLong
+C69.2;Bösartige Neubildung: Retina;preferredLong
+C69.3;Bösartige Neubildung: Chorioidea;preferredLong
+C69.3;Bösartige Neubildung: Chorioidea;preferredLong
+C69.4;Bösartige Neubildung: Ziliarkörper;preferredLong
+C69.4;Bösartige Neubildung: Ziliarkörper;preferredLong
+C69.5;Bösartige Neubildung: Tränendrüse und Tränenwege;preferredLong
+C69.5;Bösartige Neubildung: Tränendrüse und Tränenwege;preferredLong
+C69.6;Bösartige Neubildung: Orbita;preferredLong
+C69.6;Bösartige Neubildung: Orbita;preferredLong
+C69.8;Bösartige Neubildung: Auge und Augenanhangsgebilde, mehrere Teilbereiche überlappend;preferredLong
+C69.8;Bösartige Neubildung: Auge und Augenanhangsgebilde, mehrere Teilbereiche überlappend;preferredLong
+C69.9;Bösartige Neubildung: Auge, nicht näher bezeichnet;preferredLong
+C69.9;Bösartige Neubildung: Auge, nicht näher bezeichnet;preferredLong
+C70;Bösartige Neubildung der Meningen;
+C70.0;Bösartige Neubildung: Hirnhäute;preferredLong
+C70.0;Bösartige Neubildung: Hirnhäute;preferredLong
+C70.1;Bösartige Neubildung: Rückenmarkhäute;preferredLong
+C70.1;Bösartige Neubildung: Rückenmarkhäute;preferredLong
+C70.9;Bösartige Neubildung: Meningen, nicht näher bezeichnet;preferredLong
+C70.9;Bösartige Neubildung: Meningen, nicht näher bezeichnet;preferredLong
+C71;Bösartige Neubildung des Gehirns;
+C71.0;Bösartige Neubildung: Zerebrum, ausgenommen Hirnlappen und Ventrikel;preferredLong
+C71.0;Bösartige Neubildung: Zerebrum, ausgenommen Hirnlappen und Ventrikel;preferredLong
+C71.1;Bösartige Neubildung: Frontallappen;preferredLong
+C71.1;Bösartige Neubildung: Frontallappen;preferredLong
+C71.2;Bösartige Neubildung: Temporallappen;preferredLong
+C71.2;Bösartige Neubildung: Temporallappen;preferredLong
+C71.3;Bösartige Neubildung: Parietallappen;preferredLong
+C71.3;Bösartige Neubildung: Parietallappen;preferredLong
+C71.4;Bösartige Neubildung: Okzipitallappen;preferredLong
+C71.4;Bösartige Neubildung: Okzipitallappen;preferredLong
+C71.5;Bösartige Neubildung: Hirnventrikel;preferredLong
+C71.5;Bösartige Neubildung: Hirnventrikel;preferredLong
+C71.6;Bösartige Neubildung: Zerebellum;preferredLong
+C71.6;Bösartige Neubildung: Zerebellum;preferredLong
+C71.7;Bösartige Neubildung: Hirnstamm;preferredLong
+C71.7;Bösartige Neubildung: Hirnstamm;preferredLong
+C71.8;Bösartige Neubildung: Gehirn, mehrere Teilbereiche überlappend;preferredLong
+C71.8;Bösartige Neubildung: Gehirn, mehrere Teilbereiche überlappend;preferredLong
+C71.9;Bösartige Neubildung: Gehirn, nicht näher bezeichnet;preferredLong
+C71.9;Bösartige Neubildung: Gehirn, nicht näher bezeichnet;preferredLong
+C72;Bösartige Neubildung des Rückenmarkes, der Hirnnerven und anderer Teile des Zentralnervensystems;
+C72.0;Bösartige Neubildung: Rückenmark;preferredLong
+C72.0;Bösartige Neubildung: Rückenmark;preferredLong
+C72.1;Bösartige Neubildung: Cauda equina;preferredLong
+C72.1;Bösartige Neubildung: Cauda equina;preferredLong
+C72.2;Bösartige Neubildung: Nn. olfactorii [I. Hirnnerv];preferredLong
+C72.2;Bösartige Neubildung: Nn. olfactorii [I. Hirnnerv];preferredLong
+C72.3;Bösartige Neubildung: N. opticus [II. Hirnnerv];preferredLong
+C72.3;Bösartige Neubildung: N. opticus [II. Hirnnerv];preferredLong
+C72.4;Bösartige Neubildung: N. vestibulocochlearis [VIII. Hirnnerv];preferredLong
+C72.4;Bösartige Neubildung: N. vestibulocochlearis [VIII. Hirnnerv];preferredLong
+C72.5;Bösartige Neubildung: Sonstige und nicht näher bezeichnete Hirnnerven;preferredLong
+C72.5;Bösartige Neubildung: Sonstige und nicht näher bezeichnete Hirnnerven;preferredLong
+C72.8;Bösartige Neubildung: Gehirn und andere Teile des Zentralnervensystems, mehrere Teilbereiche überlappend;preferredLong
+C72.8;Bösartige Neubildung: Gehirn und andere Teile des Zentralnervensystems, mehrere Teilbereiche überlappend;preferredLong
+C72.9;Bösartige Neubildung: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+C72.9;Bösartige Neubildung: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+C73;Bösartige Neubildung der Schilddrüse;
+C74;Bösartige Neubildung der Nebenniere;
+C74.0;Bösartige Neubildung: Nebennierenrinde;preferredLong
+C74.0;Bösartige Neubildung: Nebennierenrinde;preferredLong
+C74.1;Bösartige Neubildung: Nebennierenmark;preferredLong
+C74.1;Bösartige Neubildung: Nebennierenmark;preferredLong
+C74.9;Bösartige Neubildung: Nebenniere, nicht näher bezeichnet;preferredLong
+C74.9;Bösartige Neubildung: Nebenniere, nicht näher bezeichnet;preferredLong
+C75;Bösartige Neubildung sonstiger endokriner Drüsen und verwandter Strukturen;
+C75.0;Bösartige Neubildung: Nebenschilddrüse;preferredLong
+C75.0;Bösartige Neubildung: Nebenschilddrüse;preferredLong
+C75.1;Bösartige Neubildung: Hypophyse;preferredLong
+C75.1;Bösartige Neubildung: Hypophyse;preferredLong
+C75.2;Bösartige Neubildung: Ductus craniopharyngealis;preferredLong
+C75.2;Bösartige Neubildung: Ductus craniopharyngealis;preferredLong
+C75.3;Bösartige Neubildung: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+C75.3;Bösartige Neubildung: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+C75.4;Bösartige Neubildung: Glomus caroticum;preferredLong
+C75.4;Bösartige Neubildung: Glomus caroticum;preferredLong
+C75.5;Bösartige Neubildung: Glomus aorticum und sonstige Paraganglien;preferredLong
+C75.5;Bösartige Neubildung: Glomus aorticum und sonstige Paraganglien;preferredLong
+C75.8;Bösartige Neubildung: Beteiligung mehrerer endokriner Drüsen, nicht näher bezeichnet;preferredLong
+C75.8;Bösartige Neubildung: Beteiligung mehrerer endokriner Drüsen, nicht näher bezeichnet;preferredLong
+C75.9;Bösartige Neubildung: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+C75.9;Bösartige Neubildung: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+C76;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen;
+C76.0;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Kopf, Gesicht und Hals;preferredLong
+C76.0;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Kopf, Gesicht und Hals;preferredLong
+C76.1;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Thorax;preferredLong
+C76.1;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Thorax;preferredLong
+C76.2;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Abdomen;preferredLong
+C76.2;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Abdomen;preferredLong
+C76.3;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Becken;preferredLong
+C76.3;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Becken;preferredLong
+C76.4;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Obere Extremität;preferredLong
+C76.4;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Obere Extremität;preferredLong
+C76.5;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Untere Extremität;preferredLong
+C76.5;Bösartige Neubildung ungenau bezeichneter Lokalisationen: Untere Extremität;preferredLong
+C76.7;Bösartige Neubildung: Sonstige ungenau bezeichnete Lokalisationen;preferredLong
+C76.7;Bösartige Neubildung: Sonstige ungenau bezeichnete Lokalisationen;preferredLong
+C76.8;Bösartige Neubildung: Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend;preferredLong
+C76.8;Bösartige Neubildung: Sonstige und ungenau bezeichnete Lokalisationen, mehrere Teilbereiche überlappend;preferredLong
+C80;Bösartige Neubildung ohne Angabe der Lokalisation;
+C80.0;Bösartige Neubildung, primäre Lokalisation unbekannt, so bezeichnet;
+C80.9;Bösartige Neubildung, nicht näher bezeichnet;
+C81;Hodgkin-Lymphom [Lymphogranulomatose];
+C81.0;Noduläres lymphozytenprädominantes Hodgkin-Lymphom;
+C81.1;Nodulär-sklerosierendes (klassisches) Hodgkin-Lymphom;
+C81.2;Gemischtzelliges (klassisches) Hodgkin-Lymphom;
+C81.3;Lymphozytenarmes (klassisches) Hodgkin-Lymphom;
+C81.4;Lymphozytenreiches (klassisches) Hodgkin-Lymphom;
+C81.7;Sonstige Typen des (klassischen) Hodgkin-Lymphoms;
+C81.9;Hodgkin-Lymphom, nicht näher bezeichnet;
+C82;Follikuläres Lymphom;
+C82.0;Follikuläres Lymphom Grad I;
+C82.1;Follikuläres Lymphom Grad II;
+C82.2;Follikuläres Lymphom Grad III, nicht näher bezeichnet;
+C82.3;Follikuläres Lymphom Grad IIIa;
+C82.4;Follikuläres Lymphom Grad IIIb;
+C82.5;Diffuses Follikelzentrumslymphom;
+C82.6;Kutanes Follikelzentrumslymphom;
+C82.7;Sonstige Typen des follikulären Lymphoms;
+C82.9;Follikuläres Lymphom, nicht näher bezeichnet;
+C83;Nicht follikuläres Lymphom;
+C83.0;Kleinzelliges B-Zell-Lymphom;
+C83.1;Mantelzell-Lymphom;
+C83.3;Diffuses großzelliges B-Zell-Lymphom;
+C83.5;Lymphoblastisches Lymphom;
+C83.7;Burkitt-Lymphom;
+C83.8;Sonstige nicht follikuläre Lymphome;
+C83.9;Nicht follikuläres Lymphom, nicht näher bezeichnet;
+C84;Reifzellige T/NK-Zell-Lymphome;
+C84.0;Mycosis fungoides;
+C84.1;Sézary-Syndrom;
+C84.4;Peripheres T-Zell-Lymphom, nicht spezifiziert;
+C84.5;Sonstige reifzellige T/NK-Zell-Lymphome;
+C84.6;Anaplastisches großzelliges Lymphom, ALK-positiv;
+C84.7;Anaplastisches großzelliges Lymphom, ALK-negativ;
+C84.8;Kutanes T-Zell-Lymphom, nicht näher bezeichnet;
+C84.9;Reifzelliges T/NK-Zell-Lymphom, nicht näher bezeichnet;
+C85;Sonstige und nicht näher bezeichnete Typen des Non-Hodgkin-Lymphoms;
+C85.1;B-Zell-Lymphom, nicht näher bezeichnet;
+C85.2;Mediastinales (thymisches) großzelliges B-Zell-Lymphom;
+C85.7;Sonstige näher bezeichnete Typen des Non-Hodgkin-Lymphoms;
+C85.9;Non-Hodgkin-Lymphom, nicht näher bezeichnet;
+C86;Weitere spezifizierte T/NK-Zell-Lymphome;
+C86.0;Extranodales NK/T-Zell-Lymphom, nasaler Typ;
+C86.1;Hepatosplenisches T-Zell-Lymphom;
+C86.2;T-Zell-Lymphom vom Enteropathie-Typ;
+C86.3;Subkutanes pannikulitisches T-Zell-Lymphom;
+C86.4;Blastisches NK-Zell-Lymphom;
+C86.5;Angioimmunoblastisches T-Zell-Lymphom;
+C86.6;Primäre kutane CD30-positive T-Zell-Proliferationen;
+C88;Bösartige immunproliferative Krankheiten;
+C88.0;Makroglobulinämie Waldenström;
+C88.2;Sonstige Schwerkettenkrankheit;
+C88.3;Immunproliferative Dünndarmkrankheit;
+C88.4;Extranodales Marginalzonen-B-Zell-Lymphom des Mukosa-assoziierten lymphatischen Gewebes [MALT-Lymphom];
+C88.7;Sonstige bösartige immunproliferative Krankheiten;
+C88.9;Bösartige immunproliferative Krankheit, nicht näher bezeichnet;
+C90;Plasmozytom und bösartige Plasmazellen-Neubildungen;
+C90.0;Multiples Myelom;
+C90.1;Plasmazellenleukämie;
+C90.2;Extramedulläres Plasmozytom;
+C90.3;Solitäres Plasmozytom;
+C91;Lymphatische Leukämie;
+C91.0;Akute lymphatische Leukämie [ALL];
+C91.1;Chronische lymphatische Leukämie vom B-Zell-Typ [CLL];
+C91.3;Prolymphozytäre Leukämie vom B-Zell-Typ;
+C91.4;Haarzellenleukämie;
+C91.5;Adulte(s) T-Zell-Lymphom/Leukämie (HTLV-1-assoziiert);
+C91.6;Prolymphozyten-Leukämie vom T-Zell-Typ;
+C91.7;Sonstige lymphatische Leukämie;
+C91.8;Reifzellige B-ALL vom Burkitt-Typ;
+C91.9;Lymphatische Leukämie, nicht näher bezeichnet;
+C92;Myeloische Leukämie;
+C92.0;Akute myeloblastische Leukämie [AML];
+C92.1;Chronische myeloische Leukämie [CML], BCR/ABL-positiv;
+C92.2;Atypische chronische myeloische Leukämie, BCR/ABL-negativ;
+C92.3;Myelosarkom;
+C92.4;Akute Promyelozyten-Leukämie [PCL];
+C92.5;Akute myelomonozytäre Leukämie;
+C92.6;Akute myeloische Leukämie mit 11q23-Abnormität;
+C92.7;Sonstige myeloische Leukämie;
+C92.8;Akute myeloische Leukämie mit multilineärer Dysplasie;
+C92.9;Myeloische Leukämie, nicht näher bezeichnet;
+C93;Monozytenleukämie;
+C93.0;Akute Monoblasten-/Monozytenleukämie;
+C93.1;Chronische myelomonozytäre Leukämie;
+C93.3;Juvenile myelomonozytäre Leukämie;
+C93.7;Sonstige Monozytenleukämie;
+C93.9;Monozytenleukämie, nicht näher bezeichnet;
+C94;Sonstige Leukämien näher bezeichneten Zelltyps;
+C94.0;Akute Erythroleukämie;
+C94.2;Akute Megakaryoblastenleukämie;
+C94.3;Mastzellenleukämie;
+C94.4;Akute Panmyelose mit Myelofibrose;
+C94.6;Myelodysplastische und myeloproliferative Krankheit, nicht klassifizierbar;
+C94.7;Sonstige näher bezeichnete Leukämien;
+C94.8;Blastenkrise bei chronischer myeloischer Leukämie [CML];
+C95;Leukämie nicht näher bezeichneten Zelltyps;
+C95.0;Akute Leukämie nicht näher bezeichneten Zelltyps;
+C95.1;Chronische Leukämie nicht näher bezeichneten Zelltyps;
+C95.7;Sonstige Leukämie nicht näher bezeichneten Zelltyps;
+C95.8;Leukämie, refraktär auf Standard-Induktionstherapie;
+C95.9;Leukämie, nicht näher bezeichnet;
+C96;Sonstige und nicht näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes;
+C96.0;Multifokale und multisystemische (disseminierte) Langerhans-Zell-Histiozytose [Abt-Letterer-Siwe-Krankheit];
+C96.2;Bösartiger Mastzelltumor;
+C96.4;Sarkom der dendritischen Zellen (akzessorische Zellen);
+C96.5;Multifokale und unisystemische Langerhans-Zell-Histiozytose;
+C96.6;Unifokale Langerhans-Zell-Histiozytose;
+C96.7;Sonstige näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes;
+C96.8;Histiozytisches Sarkom;
+C96.9;Bösartige Neubildung des lymphatischen, blutbildenden und verwandten Gewebes, nicht näher bezeichnet;
+C97;Bösartige Neubildungen als Primärtumoren an mehreren Lokalisationen;
+D00;Carcinoma in situ der Mundhöhle, des Ösophagus und des Magens;
+D00.0;Carcinoma in situ: Lippe, Mundhöhle und Pharynx;preferredLong
+D00.0;Carcinoma in situ: Lippe, Mundhöhle und Pharynx;preferredLong
+D00.1;Carcinoma in situ: Ösophagus;preferredLong
+D00.1;Carcinoma in situ: Ösophagus;preferredLong
+D00.2;Carcinoma in situ: Magen;preferredLong
+D00.2;Carcinoma in situ: Magen;preferredLong
+D01;Carcinoma in situ sonstiger und nicht näher bezeichneter Verdauungsorgane;
+D01.0;Carcinoma in situ: Kolon;preferredLong
+D01.0;Carcinoma in situ: Kolon;preferredLong
+D01.1;Carcinoma in situ: Rektosigmoid, Übergang;preferredLong
+D01.1;Carcinoma in situ: Rektosigmoid, Übergang;preferredLong
+D01.2;Carcinoma in situ: Rektum;preferredLong
+D01.2;Carcinoma in situ: Rektum;preferredLong
+D01.3;Carcinoma in situ: Analkanal und Anus;preferredLong
+D01.3;Carcinoma in situ: Analkanal und Anus;preferredLong
+D01.4;Carcinoma in situ: Sonstige und nicht näher bezeichnete Teile des Darmes;preferredLong
+D01.4;Carcinoma in situ: Sonstige und nicht näher bezeichnete Teile des Darmes;preferredLong
+D01.5;Carcinoma in situ: Leber, Gallenblase und Gallengänge;preferredLong
+D01.5;Carcinoma in situ: Leber, Gallenblase und Gallengänge;preferredLong
+D01.7;Carcinoma in situ: Sonstige näher bezeichnete Verdauungsorgane;preferredLong
+D01.7;Carcinoma in situ: Sonstige näher bezeichnete Verdauungsorgane;preferredLong
+D01.9;Carcinoma in situ: Verdauungsorgan, nicht näher bezeichnet;preferredLong
+D01.9;Carcinoma in situ: Verdauungsorgan, nicht näher bezeichnet;preferredLong
+D02;Carcinoma in situ des Mittelohres und des Atmungssystems;
+D02.0;Carcinoma in situ: Larynx;preferredLong
+D02.0;Carcinoma in situ: Larynx;preferredLong
+D02.1;Carcinoma in situ: Trachea;preferredLong
+D02.1;Carcinoma in situ: Trachea;preferredLong
+D02.2;Carcinoma in situ: Bronchus und Lunge;preferredLong
+D02.2;Carcinoma in situ: Bronchus und Lunge;preferredLong
+D02.3;Carcinoma in situ: Sonstige Teile des Atmungssystems;preferredLong
+D02.3;Carcinoma in situ: Sonstige Teile des Atmungssystems;preferredLong
+D02.4;Carcinoma in situ: Atmungssystem, nicht näher bezeichnet;preferredLong
+D02.4;Carcinoma in situ: Atmungssystem, nicht näher bezeichnet;preferredLong
+D03;Melanoma in situ;
+D03.0;Melanoma in situ der Lippe;
+D03.1;Melanoma in situ des Augenlides, einschließlich Kanthus;
+D03.2;Melanoma in situ des Ohres und des äußeren Gehörganges;
+D03.3;Melanoma in situ sonstiger und nicht näher bezeichneter Teile des Gesichtes;
+D03.4;Melanoma in situ der behaarten Kopfhaut und des Halses;
+D03.5;Melanoma in situ des Rumpfes;
+D03.6;Melanoma in situ der oberen Extremität, einschließlich Schulter;
+D03.7;Melanoma in situ der unteren Extremität, einschließlich Hüfte;
+D03.8;Melanoma in situ an sonstigen Lokalisationen;
+D03.9;Melanoma in situ, nicht näher bezeichnet;
+D04;Carcinoma in situ der Haut;
+D04.0;Carcinoma in situ: Lippenhaut;preferredLong
+D04.0;Carcinoma in situ: Lippenhaut;preferredLong
+D04.1;Carcinoma in situ: Haut des Augenlides, einschließlich Kanthus;preferredLong
+D04.1;Carcinoma in situ: Haut des Augenlides, einschließlich Kanthus;preferredLong
+D04.2;Carcinoma in situ: Haut des Ohres und des äußeren Gehörganges;preferredLong
+D04.2;Carcinoma in situ: Haut des Ohres und des äußeren Gehörganges;preferredLong
+D04.3;Carcinoma in situ: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+D04.3;Carcinoma in situ: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+D04.4;Carcinoma in situ: Behaarte Kopfhaut und Haut des Halses;preferredLong
+D04.4;Carcinoma in situ: Behaarte Kopfhaut und Haut des Halses;preferredLong
+D04.5;Carcinoma in situ: Haut des Rumpfes;preferredLong
+D04.5;Carcinoma in situ: Haut des Rumpfes;preferredLong
+D04.6;Carcinoma in situ: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+D04.6;Carcinoma in situ: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+D04.7;Carcinoma in situ: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+D04.7;Carcinoma in situ: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+D04.8;Carcinoma in situ: Haut an sonstigen Lokalisationen;preferredLong
+D04.8;Carcinoma in situ: Haut an sonstigen Lokalisationen;preferredLong
+D04.9;Carcinoma in situ: Haut, nicht näher bezeichnet;preferredLong
+D04.9;Carcinoma in situ: Haut, nicht näher bezeichnet;preferredLong
+D05;Carcinoma in situ der Brustdrüse [Mamma];
+D05.0;Lobuläres Carcinoma in situ der Brustdrüse;
+D05.1;Carcinoma in situ der Milchgänge;
+D05.7;Sonstiges Carcinoma in situ der Brustdrüse;
+D05.9;Carcinoma in situ der Brustdrüse, nicht näher bezeichnet;
+D06;Carcinoma in situ der Cervix uteri;
+D06.0;Carcinoma in situ: Endozervix;preferredLong
+D06.0;Carcinoma in situ: Endozervix;preferredLong
+D06.1;Carcinoma in situ: Ektozervix;preferredLong
+D06.1;Carcinoma in situ: Ektozervix;preferredLong
+D06.7;Carcinoma in situ: Sonstige Teile der Cervix uteri;preferredLong
+D06.7;Carcinoma in situ: Sonstige Teile der Cervix uteri;preferredLong
+D06.9;Carcinoma in situ: Cervix uteri, nicht näher bezeichnet;preferredLong
+D06.9;Carcinoma in situ: Cervix uteri, nicht näher bezeichnet;preferredLong
+D07;Carcinoma in situ sonstiger und nicht näher bezeichneter Genitalorgane;
+D07.0;Carcinoma in situ: Endometrium;preferredLong
+D07.0;Carcinoma in situ: Endometrium;preferredLong
+D07.1;Carcinoma in situ: Vulva;preferredLong
+D07.1;Carcinoma in situ: Vulva;preferredLong
+D07.2;Carcinoma in situ: Vagina;preferredLong
+D07.2;Carcinoma in situ: Vagina;preferredLong
+D07.3;Carcinoma in situ: Sonstige und nicht näher bezeichnete weibliche Genitalorgane;preferredLong
+D07.3;Carcinoma in situ: Sonstige und nicht näher bezeichnete weibliche Genitalorgane;preferredLong
+D07.4;Carcinoma in situ: Penis;preferredLong
+D07.4;Carcinoma in situ: Penis;preferredLong
+D07.5;Carcinoma in situ: Prostata;preferredLong
+D07.5;Carcinoma in situ: Prostata;preferredLong
+D07.6;Carcinoma in situ: Sonstige und nicht näher bezeichnete männliche Genitalorgane;preferredLong
+D07.6;Carcinoma in situ: Sonstige und nicht näher bezeichnete männliche Genitalorgane;preferredLong
+D09;Carcinoma in situ sonstiger und nicht näher bezeichneter Lokalisationen;
+D09.0;Carcinoma in situ: Harnblase;preferredLong
+D09.0;Carcinoma in situ: Harnblase;preferredLong
+D09.1;Carcinoma in situ: Sonstige und nicht näher bezeichnete Harnorgane;preferredLong
+D09.1;Carcinoma in situ: Sonstige und nicht näher bezeichnete Harnorgane;preferredLong
+D09.2;Carcinoma in situ: Auge;preferredLong
+D09.2;Carcinoma in situ: Auge;preferredLong
+D09.3;Carcinoma in situ: Schilddrüse und sonstige endokrine Drüsen;preferredLong
+D09.3;Carcinoma in situ: Schilddrüse und sonstige endokrine Drüsen;preferredLong
+D09.7;Carcinoma in situ sonstiger näher bezeichneter Lokalisationen;
+D09.9;Carcinoma in situ, nicht näher bezeichnet;
+D10;Gutartige Neubildung des Mundes und des Pharynx;
+D10.0;Gutartige Neubildung: Lippe;preferredLong
+D10.0;Gutartige Neubildung: Lippe;preferredLong
+D10.1;Gutartige Neubildung: Zunge;preferredLong
+D10.1;Gutartige Neubildung: Zunge;preferredLong
+D10.2;Gutartige Neubildung: Mundboden;preferredLong
+D10.2;Gutartige Neubildung: Mundboden;preferredLong
+D10.3;Gutartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Mundes;preferredLong
+D10.3;Gutartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Mundes;preferredLong
+D10.4;Gutartige Neubildung: Tonsille;preferredLong
+D10.4;Gutartige Neubildung: Tonsille;preferredLong
+D10.5;Gutartige Neubildung: Sonstige Teile des Oropharynx;preferredLong
+D10.5;Gutartige Neubildung: Sonstige Teile des Oropharynx;preferredLong
+D10.6;Gutartige Neubildung: Nasopharynx;preferredLong
+D10.6;Gutartige Neubildung: Nasopharynx;preferredLong
+D10.7;Gutartige Neubildung: Hypopharynx;preferredLong
+D10.7;Gutartige Neubildung: Hypopharynx;preferredLong
+D10.9;Gutartige Neubildung: Pharynx, nicht näher bezeichnet;preferredLong
+D10.9;Gutartige Neubildung: Pharynx, nicht näher bezeichnet;preferredLong
+D11;Gutartige Neubildung der großen Speicheldrüsen;
+D11.0;Gutartige Neubildung: Parotis;preferredLong
+D11.0;Gutartige Neubildung: Parotis;preferredLong
+D11.7;Gutartige Neubildung: Sonstige große Speicheldrüsen;preferredLong
+D11.7;Gutartige Neubildung: Sonstige große Speicheldrüsen;preferredLong
+D11.9;Gutartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet;preferredLong
+D11.9;Gutartige Neubildung: Große Speicheldrüse, nicht näher bezeichnet;preferredLong
+D12;Gutartige Neubildung des Kolons, des Rektums, des Analkanals und des Anus;
+D12.0;Gutartige Neubildung: Zäkum;preferredLong
+D12.0;Gutartige Neubildung: Zäkum;preferredLong
+D12.1;Gutartige Neubildung: Appendix vermiformis;preferredLong
+D12.1;Gutartige Neubildung: Appendix vermiformis;preferredLong
+D12.2;Gutartige Neubildung: Colon ascendens;preferredLong
+D12.2;Gutartige Neubildung: Colon ascendens;preferredLong
+D12.3;Gutartige Neubildung: Colon transversum;preferredLong
+D12.3;Gutartige Neubildung: Colon transversum;preferredLong
+D12.4;Gutartige Neubildung: Colon descendens;preferredLong
+D12.4;Gutartige Neubildung: Colon descendens;preferredLong
+D12.5;Gutartige Neubildung: Colon sigmoideum;preferredLong
+D12.5;Gutartige Neubildung: Colon sigmoideum;preferredLong
+D12.6;Gutartige Neubildung: Kolon, nicht näher bezeichnet;preferredLong
+D12.6;Gutartige Neubildung: Kolon, nicht näher bezeichnet;preferredLong
+D12.7;Gutartige Neubildung: Rektosigmoid, Übergang;preferredLong
+D12.7;Gutartige Neubildung: Rektosigmoid, Übergang;preferredLong
+D12.8;Gutartige Neubildung: Rektum;preferredLong
+D12.8;Gutartige Neubildung: Rektum;preferredLong
+D12.9;Gutartige Neubildung: Analkanal und Anus;preferredLong
+D12.9;Gutartige Neubildung: Analkanal und Anus;preferredLong
+D13;Gutartige Neubildung sonstiger und ungenau bezeichneter Teile des Verdauungssystems;
+D13.0;Gutartige Neubildung: Ösophagus;preferredLong
+D13.0;Gutartige Neubildung: Ösophagus;preferredLong
+D13.1;Gutartige Neubildung: Magen;preferredLong
+D13.1;Gutartige Neubildung: Magen;preferredLong
+D13.2;Gutartige Neubildung: Duodenum;preferredLong
+D13.2;Gutartige Neubildung: Duodenum;preferredLong
+D13.3;Gutartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Dünndarmes;preferredLong
+D13.3;Gutartige Neubildung: Sonstige und nicht näher bezeichnete Teile des Dünndarmes;preferredLong
+D13.4;Gutartige Neubildung: Leber;preferredLong
+D13.4;Gutartige Neubildung: Leber;preferredLong
+D13.5;Gutartige Neubildung: Extrahepatische Gallengänge und Gallenblase;preferredLong
+D13.5;Gutartige Neubildung: Extrahepatische Gallengänge und Gallenblase;preferredLong
+D13.6;Gutartige Neubildung: Pankreas;preferredLong
+D13.6;Gutartige Neubildung: Pankreas;preferredLong
+D13.7;Gutartige Neubildung: Endokriner Drüsenanteil des Pankreas;preferredLong
+D13.7;Gutartige Neubildung: Endokriner Drüsenanteil des Pankreas;preferredLong
+D13.9;Gutartige Neubildung: Ungenau bezeichnete Lokalisationen innerhalb des Verdauungssystems;preferredLong
+D13.9;Gutartige Neubildung: Ungenau bezeichnete Lokalisationen innerhalb des Verdauungssystems;preferredLong
+D14;Gutartige Neubildung des Mittelohres und des Atmungssystems;
+D14.0;Gutartige Neubildung: Mittelohr, Nasenhöhle und Nasennebenhöhlen;preferredLong
+D14.0;Gutartige Neubildung: Mittelohr, Nasenhöhle und Nasennebenhöhlen;preferredLong
+D14.1;Gutartige Neubildung: Larynx;preferredLong
+D14.1;Gutartige Neubildung: Larynx;preferredLong
+D14.2;Gutartige Neubildung: Trachea;preferredLong
+D14.2;Gutartige Neubildung: Trachea;preferredLong
+D14.3;Gutartige Neubildung: Bronchus und Lunge;preferredLong
+D14.3;Gutartige Neubildung: Bronchus und Lunge;preferredLong
+D14.4;Gutartige Neubildung: Atmungssystem, nicht näher bezeichnet;preferredLong
+D14.4;Gutartige Neubildung: Atmungssystem, nicht näher bezeichnet;preferredLong
+D15;Gutartige Neubildung sonstiger und nicht näher bezeichneter intrathorakaler Organe;
+D15.0;Gutartige Neubildung: Thymus;preferredLong
+D15.0;Gutartige Neubildung: Thymus;preferredLong
+D15.1;Gutartige Neubildung: Herz;preferredLong
+D15.1;Gutartige Neubildung: Herz;preferredLong
+D15.2;Gutartige Neubildung: Mediastinum;preferredLong
+D15.2;Gutartige Neubildung: Mediastinum;preferredLong
+D15.7;Gutartige Neubildung: Sonstige näher bezeichnete intrathorakale Organe;preferredLong
+D15.7;Gutartige Neubildung: Sonstige näher bezeichnete intrathorakale Organe;preferredLong
+D15.9;Gutartige Neubildung: Intrathorakales Organ, nicht näher bezeichnet;preferredLong
+D15.9;Gutartige Neubildung: Intrathorakales Organ, nicht näher bezeichnet;preferredLong
+D16;Gutartige Neubildung des Knochens und des Gelenkknorpels;
+D16.0;Gutartige Neubildung des Knochens und des Gelenkknorpels: Skapula und lange Knochen der oberen Extremität;preferredLong
+D16.0;Gutartige Neubildung des Knochens und des Gelenkknorpels: Skapula und lange Knochen der oberen Extremität;preferredLong
+D16.1;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der oberen Extremität;preferredLong
+D16.1;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der oberen Extremität;preferredLong
+D16.2;Gutartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität;preferredLong
+D16.2;Gutartige Neubildung des Knochens und des Gelenkknorpels: Lange Knochen der unteren Extremität;preferredLong
+D16.3;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der unteren Extremität;preferredLong
+D16.3;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kurze Knochen der unteren Extremität;preferredLong
+D16.4;Gutartige Neubildung des Knochens und des Gelenkknorpels: Knochen des Hirn- und Gesichtsschädels;preferredLong
+D16.4;Gutartige Neubildung des Knochens und des Gelenkknorpels: Knochen des Hirn- und Gesichtsschädels;preferredLong
+D16.41;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kraniofazial;preferredLong
+D16.41;Gutartige Neubildung des Knochens und des Gelenkknorpels: Kraniofazial;preferredLong
+D16.42;Gutartige Neubildung des Knochens und des Gelenkknorpels: Maxillofazial;preferredLong
+D16.42;Gutartige Neubildung des Knochens und des Gelenkknorpels: Maxillofazial;preferredLong
+D16.5;Gutartige Neubildung des Knochens und des Gelenkknorpels: Unterkieferknochen;preferredLong
+D16.5;Gutartige Neubildung des Knochens und des Gelenkknorpels: Unterkieferknochen;preferredLong
+D16.6;Gutartige Neubildung des Knochens und des Gelenkknorpels: Wirbelsäule;preferredLong
+D16.6;Gutartige Neubildung des Knochens und des Gelenkknorpels: Wirbelsäule;preferredLong
+D16.7;Gutartige Neubildung des Knochens und des Gelenkknorpels: Rippen, Sternum und Klavikula;preferredLong
+D16.7;Gutartige Neubildung des Knochens und des Gelenkknorpels: Rippen, Sternum und Klavikula;preferredLong
+D16.70;Gutartige Neubildung des Knochens und des Gelenkknorpels: Rippen;preferredLong
+D16.70;Gutartige Neubildung des Knochens und des Gelenkknorpels: Rippen;preferredLong
+D16.71;Gutartige Neubildung des Knochens und des Gelenkknorpels: Sternum;preferredLong
+D16.71;Gutartige Neubildung des Knochens und des Gelenkknorpels: Sternum;preferredLong
+D16.72;Gutartige Neubildung des Knochens und des Gelenkknorpels: Klavikula;preferredLong
+D16.72;Gutartige Neubildung des Knochens und des Gelenkknorpels: Klavikula;preferredLong
+D16.8;Gutartige Neubildung des Knochens und des Gelenkknorpels: Knöchernes Becken;preferredLong
+D16.8;Gutartige Neubildung des Knochens und des Gelenkknorpels: Knöchernes Becken;preferredLong
+D16.9;Gutartige Neubildung: Knochen und Gelenkknorpel, nicht näher bezeichnet;preferredLong
+D16.9;Gutartige Neubildung: Knochen und Gelenkknorpel, nicht näher bezeichnet;preferredLong
+D17;Gutartige Neubildung des Fettgewebes;
+D17.0;Gutartige Neubildung des Fettgewebes der Haut und der Unterhaut des Kopfes, des Gesichtes und des Halses;
+D17.1;Gutartige Neubildung des Fettgewebes der Haut und der Unterhaut des Rumpfes;
+D17.2;Gutartige Neubildung des Fettgewebes der Haut und der Unterhaut der Extremitäten;
+D17.3;Gutartige Neubildung des Fettgewebes der Haut und der Unterhaut an sonstigen und nicht näher bezeichneten Lokalisationen;
+D17.4;Gutartige Neubildung des Fettgewebes der intrathorakalen Organe;
+D17.5;Gutartige Neubildung des Fettgewebes der intraabdominalen Organe;
+D17.6;Gutartige Neubildung des Fettgewebes des Samenstrangs;
+D17.7;Gutartige Neubildung des Fettgewebes an sonstigen Lokalisationen;
+D17.9;Gutartige Neubildung des Fettgewebes, nicht näher bezeichnet;
+D18;Hämangiom und Lymphangiom;
+D18.0;Hämangiom;
+D18.1;Lymphangiom;
+D19;Gutartige Neubildung des mesothelialen Gewebes;
+D19.0;Gutartige Neubildung: Mesotheliales Gewebe der Pleura;preferredLong
+D19.0;Gutartige Neubildung: Mesotheliales Gewebe der Pleura;preferredLong
+D19.1;Gutartige Neubildung: Mesotheliales Gewebe des Peritoneums;preferredLong
+D19.1;Gutartige Neubildung: Mesotheliales Gewebe des Peritoneums;preferredLong
+D19.7;Gutartige Neubildung: Mesotheliales Gewebe an sonstigen Lokalisationen;preferredLong
+D19.7;Gutartige Neubildung: Mesotheliales Gewebe an sonstigen Lokalisationen;preferredLong
+D19.9;Gutartige Neubildung: Mesotheliales Gewebe, nicht näher bezeichnet;preferredLong
+D19.9;Gutartige Neubildung: Mesotheliales Gewebe, nicht näher bezeichnet;preferredLong
+D20;Gutartige Neubildung des Weichteilgewebes des Retroperitoneums und des Peritoneums;
+D20.0;Gutartige Neubildung: Retroperitoneum;preferredLong
+D20.0;Gutartige Neubildung: Retroperitoneum;preferredLong
+D20.1;Gutartige Neubildung: Peritoneum;preferredLong
+D20.1;Gutartige Neubildung: Peritoneum;preferredLong
+D21;Sonstige gutartige Neubildungen des Bindegewebes und anderer Weichteilgewebe;
+D21.0;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses;preferredLong
+D21.0;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Kopfes, des Gesichtes und des Halses;preferredLong
+D21.1;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter;preferredLong
+D21.1;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe der oberen Extremität, einschließlich Schulter;preferredLong
+D21.2;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte;preferredLong
+D21.2;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe der unteren Extremität, einschließlich Hüfte;preferredLong
+D21.3;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Thorax;preferredLong
+D21.3;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Thorax;preferredLong
+D21.4;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Abdomens;preferredLong
+D21.4;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Abdomens;preferredLong
+D21.5;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Beckens;preferredLong
+D21.5;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Beckens;preferredLong
+D21.6;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet;preferredLong
+D21.6;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe des Rumpfes, nicht näher bezeichnet;preferredLong
+D21.9;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet;preferredLong
+D21.9;Sonstige gutartige Neubildungen: Bindegewebe und andere Weichteilgewebe, nicht näher bezeichnet;preferredLong
+D22;Melanozytennävus;
+D22.0;Melanozytennävus der Lippe;
+D22.1;Melanozytennävus des Augenlides, einschließlich Kanthus;
+D22.2;Melanozytennävus des Ohres und des äußeren Gehörganges;
+D22.3;Melanozytennävus sonstiger und nicht näher bezeichneter Teile des Gesichtes;
+D22.4;Melanozytennävus der behaarten Kopfhaut und des Halses;
+D22.5;Melanozytennävus des Rumpfes;
+D22.6;Melanozytennävus der oberen Extremität, einschließlich Schulter;
+D22.7;Melanozytennävus der unteren Extremität, einschließlich Hüfte;
+D22.9;Melanozytennävus, nicht näher bezeichnet;
+D23;Sonstige gutartige Neubildungen der Haut;
+D23.0;Sonstige gutartige Neubildungen: Lippenhaut;preferredLong
+D23.0;Sonstige gutartige Neubildungen: Lippenhaut;preferredLong
+D23.1;Sonstige gutartige Neubildungen: Haut des Augenlides, einschließlich Kanthus;preferredLong
+D23.1;Sonstige gutartige Neubildungen: Haut des Augenlides, einschließlich Kanthus;preferredLong
+D23.2;Sonstige gutartige Neubildungen: Haut des Ohres und des äußeren Gehörganges;preferredLong
+D23.2;Sonstige gutartige Neubildungen: Haut des Ohres und des äußeren Gehörganges;preferredLong
+D23.3;Sonstige gutartige Neubildungen: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+D23.3;Sonstige gutartige Neubildungen: Haut sonstiger und nicht näher bezeichneter Teile des Gesichtes;preferredLong
+D23.4;Sonstige gutartige Neubildungen: Behaarte Kopfhaut und Haut des Halses;preferredLong
+D23.4;Sonstige gutartige Neubildungen: Behaarte Kopfhaut und Haut des Halses;preferredLong
+D23.5;Sonstige gutartige Neubildungen: Haut des Rumpfes;preferredLong
+D23.5;Sonstige gutartige Neubildungen: Haut des Rumpfes;preferredLong
+D23.6;Sonstige gutartige Neubildungen: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+D23.6;Sonstige gutartige Neubildungen: Haut der oberen Extremität, einschließlich Schulter;preferredLong
+D23.7;Sonstige gutartige Neubildungen: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+D23.7;Sonstige gutartige Neubildungen: Haut der unteren Extremität, einschließlich Hüfte;preferredLong
+D23.9;Sonstige gutartige Neubildungen: Haut, nicht näher bezeichnet;preferredLong
+D23.9;Sonstige gutartige Neubildungen: Haut, nicht näher bezeichnet;preferredLong
+D24;Gutartige Neubildung der Brustdrüse [Mamma];
+D25;Leiomyom des Uterus;
+D25.0;Submuköses Leiomyom des Uterus;
+D25.1;Intramurales Leiomyom des Uterus;
+D25.2;Subseröses Leiomyom des Uterus;
+D25.9;Leiomyom des Uterus, nicht näher bezeichnet;
+D26;Sonstige gutartige Neubildungen des Uterus;
+D26.0;Sonstige gutartige Neubildungen: Cervix uteri;preferredLong
+D26.0;Sonstige gutartige Neubildungen: Cervix uteri;preferredLong
+D26.1;Sonstige gutartige Neubildungen: Corpus uteri;preferredLong
+D26.1;Sonstige gutartige Neubildungen: Corpus uteri;preferredLong
+D26.7;Sonstige gutartige Neubildungen: Sonstige Teile des Uterus;preferredLong
+D26.7;Sonstige gutartige Neubildungen: Sonstige Teile des Uterus;preferredLong
+D26.9;Sonstige gutartige Neubildungen: Uterus, nicht näher bezeichnet;preferredLong
+D26.9;Sonstige gutartige Neubildungen: Uterus, nicht näher bezeichnet;preferredLong
+D27;Gutartige Neubildung des Ovars;
+D28;Gutartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane;
+D28.0;Gutartige Neubildung: Vulva;preferredLong
+D28.0;Gutartige Neubildung: Vulva;preferredLong
+D28.1;Gutartige Neubildung: Vagina;preferredLong
+D28.1;Gutartige Neubildung: Vagina;preferredLong
+D28.2;Gutartige Neubildung: Tubae uterinae und Ligamenta;preferredLong
+D28.2;Gutartige Neubildung: Tubae uterinae und Ligamenta;preferredLong
+D28.7;Gutartige Neubildung: Sonstige näher bezeichnete weibliche Genitalorgane;preferredLong
+D28.7;Gutartige Neubildung: Sonstige näher bezeichnete weibliche Genitalorgane;preferredLong
+D28.9;Gutartige Neubildung: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D28.9;Gutartige Neubildung: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D29;Gutartige Neubildung der männlichen Genitalorgane;
+D29.0;Gutartige Neubildung: Penis;preferredLong
+D29.0;Gutartige Neubildung: Penis;preferredLong
+D29.1;Gutartige Neubildung: Prostata;preferredLong
+D29.1;Gutartige Neubildung: Prostata;preferredLong
+D29.2;Gutartige Neubildung: Hoden;preferredLong
+D29.2;Gutartige Neubildung: Hoden;preferredLong
+D29.3;Gutartige Neubildung: Nebenhoden;preferredLong
+D29.3;Gutartige Neubildung: Nebenhoden;preferredLong
+D29.4;Gutartige Neubildung: Skrotum;preferredLong
+D29.4;Gutartige Neubildung: Skrotum;preferredLong
+D29.7;Gutartige Neubildung: Sonstige männliche Genitalorgane;preferredLong
+D29.7;Gutartige Neubildung: Sonstige männliche Genitalorgane;preferredLong
+D29.9;Gutartige Neubildung: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D29.9;Gutartige Neubildung: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D30;Gutartige Neubildung der Harnorgane;
+D30.0;Gutartige Neubildung: Niere;preferredLong
+D30.0;Gutartige Neubildung: Niere;preferredLong
+D30.1;Gutartige Neubildung: Nierenbecken;preferredLong
+D30.1;Gutartige Neubildung: Nierenbecken;preferredLong
+D30.2;Gutartige Neubildung: Ureter;preferredLong
+D30.2;Gutartige Neubildung: Ureter;preferredLong
+D30.3;Gutartige Neubildung: Harnblase;preferredLong
+D30.3;Gutartige Neubildung: Harnblase;preferredLong
+D30.4;Gutartige Neubildung: Urethra;preferredLong
+D30.4;Gutartige Neubildung: Urethra;preferredLong
+D30.7;Gutartige Neubildung: Sonstige Harnorgane;preferredLong
+D30.7;Gutartige Neubildung: Sonstige Harnorgane;preferredLong
+D30.9;Gutartige Neubildung: Harnorgan, nicht näher bezeichnet;preferredLong
+D30.9;Gutartige Neubildung: Harnorgan, nicht näher bezeichnet;preferredLong
+D31;Gutartige Neubildung des Auges und der Augenanhangsgebilde;
+D31.0;Gutartige Neubildung: Konjunktiva;preferredLong
+D31.0;Gutartige Neubildung: Konjunktiva;preferredLong
+D31.1;Gutartige Neubildung: Kornea;preferredLong
+D31.1;Gutartige Neubildung: Kornea;preferredLong
+D31.2;Gutartige Neubildung: Retina;preferredLong
+D31.2;Gutartige Neubildung: Retina;preferredLong
+D31.3;Gutartige Neubildung: Chorioidea;preferredLong
+D31.3;Gutartige Neubildung: Chorioidea;preferredLong
+D31.4;Gutartige Neubildung: Ziliarkörper;preferredLong
+D31.4;Gutartige Neubildung: Ziliarkörper;preferredLong
+D31.5;Gutartige Neubildung: Tränendrüse und Tränenwege;preferredLong
+D31.5;Gutartige Neubildung: Tränendrüse und Tränenwege;preferredLong
+D31.6;Gutartige Neubildung: Orbita, nicht näher bezeichnet;preferredLong
+D31.6;Gutartige Neubildung: Orbita, nicht näher bezeichnet;preferredLong
+D31.9;Gutartige Neubildung: Auge, nicht näher bezeichnet;preferredLong
+D31.9;Gutartige Neubildung: Auge, nicht näher bezeichnet;preferredLong
+D32;Gutartige Neubildung der Meningen;
+D32.0;Gutartige Neubildung: Hirnhäute;preferredLong
+D32.0;Gutartige Neubildung: Hirnhäute;preferredLong
+D32.1;Gutartige Neubildung: Rückenmarkhäute;preferredLong
+D32.1;Gutartige Neubildung: Rückenmarkhäute;preferredLong
+D32.9;Gutartige Neubildung: Meningen, nicht näher bezeichnet;preferredLong
+D32.9;Gutartige Neubildung: Meningen, nicht näher bezeichnet;preferredLong
+D33;Gutartige Neubildung des Gehirns und anderer Teile des Zentralnervensystems;
+D33.0;Gutartige Neubildung: Gehirn, supratentoriell;preferredLong
+D33.0;Gutartige Neubildung: Gehirn, supratentoriell;preferredLong
+D33.1;Gutartige Neubildung: Gehirn, infratentoriell;preferredLong
+D33.1;Gutartige Neubildung: Gehirn, infratentoriell;preferredLong
+D33.2;Gutartige Neubildung: Gehirn, nicht näher bezeichnet;preferredLong
+D33.2;Gutartige Neubildung: Gehirn, nicht näher bezeichnet;preferredLong
+D33.3;Gutartige Neubildung: Hirnnerven;preferredLong
+D33.3;Gutartige Neubildung: Hirnnerven;preferredLong
+D33.4;Gutartige Neubildung: Rückenmark;preferredLong
+D33.4;Gutartige Neubildung: Rückenmark;preferredLong
+D33.7;Gutartige Neubildung: Sonstige näher bezeichnete Teile des Zentralnervensystems;preferredLong
+D33.7;Gutartige Neubildung: Sonstige näher bezeichnete Teile des Zentralnervensystems;preferredLong
+D33.9;Gutartige Neubildung: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+D33.9;Gutartige Neubildung: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+D34;Gutartige Neubildung der Schilddrüse;
+D35;Gutartige Neubildung sonstiger und nicht näher bezeichneter endokriner Drüsen;
+D35.0;Gutartige Neubildung: Nebenniere;preferredLong
+D35.0;Gutartige Neubildung: Nebenniere;preferredLong
+D35.1;Gutartige Neubildung: Nebenschilddrüse;preferredLong
+D35.1;Gutartige Neubildung: Nebenschilddrüse;preferredLong
+D35.2;Gutartige Neubildung: Hypophyse;preferredLong
+D35.2;Gutartige Neubildung: Hypophyse;preferredLong
+D35.3;Gutartige Neubildung: Ductus craniopharyngealis;preferredLong
+D35.3;Gutartige Neubildung: Ductus craniopharyngealis;preferredLong
+D35.4;Gutartige Neubildung: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+D35.4;Gutartige Neubildung: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+D35.5;Gutartige Neubildung: Glomus caroticum;preferredLong
+D35.5;Gutartige Neubildung: Glomus caroticum;preferredLong
+D35.6;Gutartige Neubildung: Glomus aorticum und sonstige Paraganglien;preferredLong
+D35.6;Gutartige Neubildung: Glomus aorticum und sonstige Paraganglien;preferredLong
+D35.7;Gutartige Neubildung: Sonstige näher bezeichnete endokrine Drüsen;preferredLong
+D35.7;Gutartige Neubildung: Sonstige näher bezeichnete endokrine Drüsen;preferredLong
+D35.8;Gutartige Neubildung: Beteiligung mehrerer endokriner Drüsen;preferredLong
+D35.8;Gutartige Neubildung: Beteiligung mehrerer endokriner Drüsen;preferredLong
+D35.9;Gutartige Neubildung: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+D35.9;Gutartige Neubildung: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+D36;Gutartige Neubildung an sonstigen und nicht näher bezeichneten Lokalisationen;
+D36.0;Gutartige Neubildung: Lymphknoten;preferredLong
+D36.0;Gutartige Neubildung: Lymphknoten;preferredLong
+D36.1;Gutartige Neubildung: Periphere Nerven und autonomes Nervensystem;preferredLong
+D36.1;Gutartige Neubildung: Periphere Nerven und autonomes Nervensystem;preferredLong
+D36.7;Gutartige Neubildung: Sonstige näher bezeichnete Lokalisationen;preferredLong
+D36.7;Gutartige Neubildung: Sonstige näher bezeichnete Lokalisationen;preferredLong
+D36.9;Gutartige Neubildung an nicht näher bezeichneter Lokalisation;
+D37;Neubildung unsicheren oder unbekannten Verhaltens der Mundhöhle und der Verdauungsorgane;
+D37.0;Neubildung unsicheren oder unbekannten Verhaltens: Lippe, Mundhöhle und Pharynx;preferredLong
+D37.0;Neubildung unsicheren oder unbekannten Verhaltens: Lippe, Mundhöhle und Pharynx;preferredLong
+D37.1;Neubildung unsicheren oder unbekannten Verhaltens: Magen;preferredLong
+D37.1;Neubildung unsicheren oder unbekannten Verhaltens: Magen;preferredLong
+D37.2;Neubildung unsicheren oder unbekannten Verhaltens: Dünndarm;preferredLong
+D37.2;Neubildung unsicheren oder unbekannten Verhaltens: Dünndarm;preferredLong
+D37.3;Neubildung unsicheren oder unbekannten Verhaltens: Appendix vermiformis;preferredLong
+D37.3;Neubildung unsicheren oder unbekannten Verhaltens: Appendix vermiformis;preferredLong
+D37.4;Neubildung unsicheren oder unbekannten Verhaltens: Kolon;preferredLong
+D37.4;Neubildung unsicheren oder unbekannten Verhaltens: Kolon;preferredLong
+D37.5;Neubildung unsicheren oder unbekannten Verhaltens: Rektum;preferredLong
+D37.5;Neubildung unsicheren oder unbekannten Verhaltens: Rektum;preferredLong
+D37.6;Neubildung unsicheren oder unbekannten Verhaltens: Leber, Gallenblase und Gallengänge;preferredLong
+D37.6;Neubildung unsicheren oder unbekannten Verhaltens: Leber, Gallenblase und Gallengänge;preferredLong
+D37.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Verdauungsorgane;preferredLong
+D37.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Verdauungsorgane;preferredLong
+D37.70;Neubildung unsicheren oder unbekannten Verhaltens: Pankreas;preferredLong
+D37.70;Neubildung unsicheren oder unbekannten Verhaltens: Pankreas;preferredLong
+D37.78;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Verdauungsorgane;preferredLong
+D37.78;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Verdauungsorgane;preferredLong
+D37.9;Neubildung unsicheren oder unbekannten Verhaltens: Verdauungsorgan, nicht näher bezeichnet;preferredLong
+D37.9;Neubildung unsicheren oder unbekannten Verhaltens: Verdauungsorgan, nicht näher bezeichnet;preferredLong
+D38;Neubildung unsicheren oder unbekannten Verhaltens des Mittelohres, der Atmungsorgane und der intrathorakalen Organe;
+D38.0;Neubildung unsicheren oder unbekannten Verhaltens: Larynx;preferredLong
+D38.0;Neubildung unsicheren oder unbekannten Verhaltens: Larynx;preferredLong
+D38.1;Neubildung unsicheren oder unbekannten Verhaltens: Trachea, Bronchus und Lunge;preferredLong
+D38.1;Neubildung unsicheren oder unbekannten Verhaltens: Trachea, Bronchus und Lunge;preferredLong
+D38.2;Neubildung unsicheren oder unbekannten Verhaltens: Pleura;preferredLong
+D38.2;Neubildung unsicheren oder unbekannten Verhaltens: Pleura;preferredLong
+D38.3;Neubildung unsicheren oder unbekannten Verhaltens: Mediastinum;preferredLong
+D38.3;Neubildung unsicheren oder unbekannten Verhaltens: Mediastinum;preferredLong
+D38.4;Neubildung unsicheren oder unbekannten Verhaltens: Thymus;preferredLong
+D38.4;Neubildung unsicheren oder unbekannten Verhaltens: Thymus;preferredLong
+D38.5;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Atmungsorgane;preferredLong
+D38.5;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Atmungsorgane;preferredLong
+D38.6;Neubildung unsicheren oder unbekannten Verhaltens: Atmungsorgan, nicht näher bezeichnet;preferredLong
+D38.6;Neubildung unsicheren oder unbekannten Verhaltens: Atmungsorgan, nicht näher bezeichnet;preferredLong
+D39;Neubildung unsicheren oder unbekannten Verhaltens der weiblichen Genitalorgane;
+D39.0;Neubildung unsicheren oder unbekannten Verhaltens: Uterus;preferredLong
+D39.0;Neubildung unsicheren oder unbekannten Verhaltens: Uterus;preferredLong
+D39.1;Neubildung unsicheren oder unbekannten Verhaltens: Ovar;preferredLong
+D39.1;Neubildung unsicheren oder unbekannten Verhaltens: Ovar;preferredLong
+D39.2;Neubildung unsicheren oder unbekannten Verhaltens: Plazenta;preferredLong
+D39.2;Neubildung unsicheren oder unbekannten Verhaltens: Plazenta;preferredLong
+D39.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige weibliche Genitalorgane;preferredLong
+D39.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige weibliche Genitalorgane;preferredLong
+D39.9;Neubildung unsicheren oder unbekannten Verhaltens: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D39.9;Neubildung unsicheren oder unbekannten Verhaltens: Weibliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D40;Neubildung unsicheren oder unbekannten Verhaltens der männlichen Genitalorgane;
+D40.0;Neubildung unsicheren oder unbekannten Verhaltens: Prostata;preferredLong
+D40.0;Neubildung unsicheren oder unbekannten Verhaltens: Prostata;preferredLong
+D40.1;Neubildung unsicheren oder unbekannten Verhaltens: Hoden;preferredLong
+D40.1;Neubildung unsicheren oder unbekannten Verhaltens: Hoden;preferredLong
+D40.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige männliche Genitalorgane;preferredLong
+D40.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige männliche Genitalorgane;preferredLong
+D40.9;Neubildung unsicheren oder unbekannten Verhaltens: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D40.9;Neubildung unsicheren oder unbekannten Verhaltens: Männliches Genitalorgan, nicht näher bezeichnet;preferredLong
+D41;Neubildung unsicheren oder unbekannten Verhaltens der Harnorgane;
+D41.0;Neubildung unsicheren oder unbekannten Verhaltens: Niere;preferredLong
+D41.0;Neubildung unsicheren oder unbekannten Verhaltens: Niere;preferredLong
+D41.1;Neubildung unsicheren oder unbekannten Verhaltens: Nierenbecken;preferredLong
+D41.1;Neubildung unsicheren oder unbekannten Verhaltens: Nierenbecken;preferredLong
+D41.2;Neubildung unsicheren oder unbekannten Verhaltens: Ureter;preferredLong
+D41.2;Neubildung unsicheren oder unbekannten Verhaltens: Ureter;preferredLong
+D41.3;Neubildung unsicheren oder unbekannten Verhaltens: Urethra;preferredLong
+D41.3;Neubildung unsicheren oder unbekannten Verhaltens: Urethra;preferredLong
+D41.4;Neubildung unsicheren oder unbekannten Verhaltens: Harnblase;preferredLong
+D41.4;Neubildung unsicheren oder unbekannten Verhaltens: Harnblase;preferredLong
+D41.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Harnorgane;preferredLong
+D41.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Harnorgane;preferredLong
+D41.9;Neubildung unsicheren oder unbekannten Verhaltens: Harnorgan, nicht näher bezeichnet;preferredLong
+D41.9;Neubildung unsicheren oder unbekannten Verhaltens: Harnorgan, nicht näher bezeichnet;preferredLong
+D42;Neubildung unsicheren oder unbekannten Verhaltens der Meningen;
+D42.0;Neubildung unsicheren oder unbekannten Verhaltens: Hirnhäute;preferredLong
+D42.0;Neubildung unsicheren oder unbekannten Verhaltens: Hirnhäute;preferredLong
+D42.1;Neubildung unsicheren oder unbekannten Verhaltens: Rückenmarkhäute;preferredLong
+D42.1;Neubildung unsicheren oder unbekannten Verhaltens: Rückenmarkhäute;preferredLong
+D42.9;Neubildung unsicheren oder unbekannten Verhaltens: Meningen, nicht näher bezeichnet;preferredLong
+D42.9;Neubildung unsicheren oder unbekannten Verhaltens: Meningen, nicht näher bezeichnet;preferredLong
+D43;Neubildung unsicheren oder unbekannten Verhaltens des Gehirns und des Zentralnervensystems;
+D43.0;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, supratentoriell;preferredLong
+D43.0;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, supratentoriell;preferredLong
+D43.1;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, infratentoriell;preferredLong
+D43.1;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, infratentoriell;preferredLong
+D43.2;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, nicht näher bezeichnet;preferredLong
+D43.2;Neubildung unsicheren oder unbekannten Verhaltens: Gehirn, nicht näher bezeichnet;preferredLong
+D43.3;Neubildung unsicheren oder unbekannten Verhaltens: Hirnnerven;preferredLong
+D43.3;Neubildung unsicheren oder unbekannten Verhaltens: Hirnnerven;preferredLong
+D43.4;Neubildung unsicheren oder unbekannten Verhaltens: Rückenmark;preferredLong
+D43.4;Neubildung unsicheren oder unbekannten Verhaltens: Rückenmark;preferredLong
+D43.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Teile des Zentralnervensystems;preferredLong
+D43.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige Teile des Zentralnervensystems;preferredLong
+D43.9;Neubildung unsicheren oder unbekannten Verhaltens: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+D43.9;Neubildung unsicheren oder unbekannten Verhaltens: Zentralnervensystem, nicht näher bezeichnet;preferredLong
+D44;Neubildung unsicheren oder unbekannten Verhaltens der endokrinen Drüsen;
+D44.0;Neubildung unsicheren oder unbekannten Verhaltens: Schilddrüse;preferredLong
+D44.0;Neubildung unsicheren oder unbekannten Verhaltens: Schilddrüse;preferredLong
+D44.1;Neubildung unsicheren oder unbekannten Verhaltens: Nebenniere;preferredLong
+D44.1;Neubildung unsicheren oder unbekannten Verhaltens: Nebenniere;preferredLong
+D44.2;Neubildung unsicheren oder unbekannten Verhaltens: Nebenschilddrüse;preferredLong
+D44.2;Neubildung unsicheren oder unbekannten Verhaltens: Nebenschilddrüse;preferredLong
+D44.3;Neubildung unsicheren oder unbekannten Verhaltens: Hypophyse;preferredLong
+D44.3;Neubildung unsicheren oder unbekannten Verhaltens: Hypophyse;preferredLong
+D44.4;Neubildung unsicheren oder unbekannten Verhaltens: Ductus craniopharyngealis;preferredLong
+D44.4;Neubildung unsicheren oder unbekannten Verhaltens: Ductus craniopharyngealis;preferredLong
+D44.5;Neubildung unsicheren oder unbekannten Verhaltens: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+D44.5;Neubildung unsicheren oder unbekannten Verhaltens: Epiphyse [Glandula pinealis] [Zirbeldrüse];preferredLong
+D44.6;Neubildung unsicheren oder unbekannten Verhaltens: Glomus caroticum;preferredLong
+D44.6;Neubildung unsicheren oder unbekannten Verhaltens: Glomus caroticum;preferredLong
+D44.7;Neubildung unsicheren oder unbekannten Verhaltens: Glomus aorticum und sonstige Paraganglien;preferredLong
+D44.7;Neubildung unsicheren oder unbekannten Verhaltens: Glomus aorticum und sonstige Paraganglien;preferredLong
+D44.8;Neubildung unsicheren oder unbekannten Verhaltens: Beteiligung mehrerer endokriner Drüsen;preferredLong
+D44.8;Neubildung unsicheren oder unbekannten Verhaltens: Beteiligung mehrerer endokriner Drüsen;preferredLong
+D44.9;Neubildung unsicheren oder unbekannten Verhaltens: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+D44.9;Neubildung unsicheren oder unbekannten Verhaltens: Endokrine Drüse, nicht näher bezeichnet;preferredLong
+D45;Polycythaemia vera;
+D46;Myelodysplastische Syndrome;
+D46.0;Refraktäre Anämie ohne Ringsideroblasten, so bezeichnet;
+D46.1;Refraktäre Anämie mit Ringsideroblasten;
+D46.2;Refraktäre Anämie mit Blastenüberschuss [RAEB];
+D46.4;Refraktäre Anämie, nicht näher bezeichnet;
+D46.5;Refraktäre Anämie mit Mehrlinien-Dysplasie;
+D46.6;Myelodysplastisches Syndrom mit isolierter del(5q)-Chromosomenanomalie;
+D46.7;Sonstige myelodysplastische Syndrome;
+D46.9;Myelodysplastisches Syndrom, nicht näher bezeichnet;
+D47;Sonstige Neubildungen unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes;
+D47.0;Histiozyten- und Mastzelltumor unsicheren oder unbekannten Verhaltens;
+D47.1;Chronische myeloproliferative Krankheit;
+D47.2;Monoklonale Gammopathie unbestimmter Signifikanz [MGUS];
+D47.3;Essentielle (hämorrhagische) Thrombozythämie;
+D47.4;Osteomyelofibrose;
+D47.5;Chronische Eosinophilen-Leukämie [Hypereosinophiles Syndrom];
+D47.7;Sonstige näher bezeichnete Neubildungen unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes;
+D47.9;Neubildung unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes, nicht näher bezeichnet;
+D48;Neubildung unsicheren oder unbekannten Verhaltens an sonstigen und nicht näher bezeichneten Lokalisationen;
+D48.0;Neubildung unsicheren oder unbekannten Verhaltens: Knochen und Gelenkknorpel;preferredLong
+D48.0;Neubildung unsicheren oder unbekannten Verhaltens: Knochen und Gelenkknorpel;preferredLong
+D48.1;Neubildung unsicheren oder unbekannten Verhaltens: Bindegewebe und andere Weichteilgewebe;preferredLong
+D48.1;Neubildung unsicheren oder unbekannten Verhaltens: Bindegewebe und andere Weichteilgewebe;preferredLong
+D48.2;Neubildung unsicheren oder unbekannten Verhaltens: Periphere Nerven und autonomes Nervensystem;preferredLong
+D48.2;Neubildung unsicheren oder unbekannten Verhaltens: Periphere Nerven und autonomes Nervensystem;preferredLong
+D48.3;Neubildung unsicheren oder unbekannten Verhaltens: Retroperitoneum;preferredLong
+D48.3;Neubildung unsicheren oder unbekannten Verhaltens: Retroperitoneum;preferredLong
+D48.4;Neubildung unsicheren oder unbekannten Verhaltens: Peritoneum;preferredLong
+D48.4;Neubildung unsicheren oder unbekannten Verhaltens: Peritoneum;preferredLong
+D48.5;Neubildung unsicheren oder unbekannten Verhaltens: Haut;preferredLong
+D48.5;Neubildung unsicheren oder unbekannten Verhaltens: Haut;preferredLong
+D48.6;Neubildung unsicheren oder unbekannten Verhaltens: Brustdrüse [Mamma];preferredLong
+D48.6;Neubildung unsicheren oder unbekannten Verhaltens: Brustdrüse [Mamma];preferredLong
+D48.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige näher bezeichnete Lokalisationen;preferredLong
+D48.7;Neubildung unsicheren oder unbekannten Verhaltens: Sonstige näher bezeichnete Lokalisationen;preferredLong
+D48.9;Neubildung unsicheren oder unbekannten Verhaltens, nicht näher bezeichnet;
