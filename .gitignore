@@ -182,9 +182,9 @@ cython_debug/
 .abstra/
 
 # Visual Studio Code
-#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-#  and can be added to the global gitignore or merged into this file. However, if you prefer, 
+#  and can be added to the global gitignore or merged into this file. However, if you prefer,
 #  you could uncomment the following to ignore the entire vscode folder
 # .vscode/
 
@@ -205,3 +205,37 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# datasets
+data/fully_cleaned_gtds_just_2023_2024_AcronymsExtended.csv
+
+# classifier & similarity search & word2vec
+word2vec/outputs_w2v/*
+word2vec/outputs_w2v_icdo/*
+word2vec/.Rproj.user/*
+word2vec/results/*
+word2vec/test.R
+classifier/measure_time_classifier.py
+similarity_search/results/*
+classifier/results/*
+classifier/violinplot.py
+rag/determine_time.py
+
+#prompts
+prompts/prompts_classifier_icdo/*
+prompts/prompts_random_few_shot/*
+prompts/prompts_similarity_search_icd10/*
+prompts/prompts_similarity_search_icdo/*
+prompts/prompts_Word2Vec/*
+prompts/prompts_zero_shot/*
+
+
+# results
+figures/*
+results/figures/plots_top20/*
+results/ICD10*
+results/ICDO*
+results/plots_top20*
+results/training_classifier/*
+results/tables/Qwen_results_icdo.csv
+
