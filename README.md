@@ -124,7 +124,7 @@ If you use this repository, or the ICD-O-3 LE dataset, please cite:
 ```bibtex
 @misc{alickovic2026ragicd,
   author       = {F. Alickovic, S. Lenz, A. Ustjanzew, L. O. Rosario, G. Vollmar, T. Kindler, T. Panholzer},
-  title        = {To RAG, or Not to RAG? A Comparative Evaluation of         Retrieval-Augmented Generation for ICD Coding of German Tumor Diagnoses},
+  title        = {To RAG, or Not to RAG? A Comparative Evaluation of Retrieval-Augmented Generation for ICD Coding of German Tumor Diagnoses},
   year         = {2026},
 }
 
